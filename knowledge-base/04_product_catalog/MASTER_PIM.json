@@ -1,0 +1,638 @@
+{
+  "version": "1.0.0",
+  "enterprise": "Quanzhou Huifeng Sanitary Articles Co., Ltd. (泉州市惠丰妇幼用品有限公司)",
+  "total_skus": 14,
+  "categories_covered": [
+    "sanitary_napkins",
+    "snow_lotus_patches",
+    "period_panties",
+    "baby_diapers",
+    "baby_pullups",
+    "bamboo_eco_diapers",
+    "adult_diapers",
+    "adult_pullups",
+    "nursing_underpads",
+    "maternity_pads",
+    "baby_wet_wipes",
+    "medical_disinfectant_wipes",
+    "pet_diapers_pads"
+  ],
+  "products": [
+    {
+      "sku_id": "HF-SN-245-01",
+      "name": "Huifeng Ultra-Thin Day Use Sanitary Napkin (245mm)",
+      "category": "sanitary_napkins",
+      "materials": "Silk-soft nonwoven topsheet, Sumitomo SAP absorbent paper core, breathable PE film, release paper, hot-melt adhesive",
+      "dimensions": "245mm length x 155mm width (with wings)",
+      "applicable_sites": [
+        "huifengsanitary",
+        "oemsanitarynapkins",
+        "mianxiangcare",
+        "anionsanitarypads",
+        "privatelabelhygiene",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Women during regular daytime menstrual flow",
+      "types_available": [
+        "Organic Cotton",
+        "Anion Green Chip",
+        "Mianxiang Herbal Chip",
+        "Silk Soft Polyethylene"
+      ],
+      "features": [
+        "0.8mm ultra-thin ergonomic core without bulging or friction",
+        "Absorption speed under 3 seconds with zero rewet (<0.15g)",
+        "Individual 360-degree hermetically sealed moisture-proof wrapper",
+        "Multi-channel fluid distribution preventing side leakage"
+      ],
+      "specifications": {
+        "absorption_capacity": "120 ml saline test",
+        "rewet_value": "< 0.15 g (ISO 11948 test method)",
+        "microbiological_status": "Zero fluorescent agent, zero fragrance, bacterial count < 20 CFU/g",
+        "packaging_style": "10 pcs/polybag, 48 bags/master carton"
+      },
+      "commercial_terms": {
+        "moq": "100,000 pcs per SKU size",
+        "lead_time": "15-20 business days",
+        "sample_policy": "Free physical lab samples available upon request",
+        "incoterms": "FOB Xiamen / CIF / CFR",
+        "port": "Xiamen Port, Fujian, China"
+      },
+      "packaging": {
+        "inner_pack": "10 pads/printed bag",
+        "outer_carton": "48 bags/carton, 480 pcs/carton",
+        "cbm_per_carton": "0.038 m³",
+        "loading_40hq": "1,800 cartons (864,000 pcs)"
+      }
+    },
+    {
+      "sku_id": "HF-SN-290-02",
+      "name": "Huifeng Heavy Day / First Night Sanitary Napkin (290mm)",
+      "category": "sanitary_napkins",
+      "materials": "3D embossed perforated nonwoven topsheet, high ratio SAP composite absorbent core, micro-porous breathable backsheet",
+      "dimensions": "290mm length x 160mm width (with double wings)",
+      "applicable_sites": [
+        "huifengsanitary",
+        "oemsanitarynapkins",
+        "mianxiangcare",
+        "anionsanitarypads",
+        "privatelabelhygiene",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Women during heavy daytime flow or early night",
+      "types_available": [
+        "Double Wing Regular",
+        "Anion Far-Infrared",
+        "Natural Herbal"
+      ],
+      "features": [
+        "Dual wing design with extended coverage and secure adhesive anchoring",
+        "Composite SAP polymer absorbing up to 180ml of fluid",
+        "Breathable backsheet dissipating moisture in 3 seconds to prevent dampness"
+      ],
+      "specifications": {
+        "absorption_capacity": "180 ml saline test",
+        "rewet_value": "< 0.18 g",
+        "packaging_style": "8 pcs/pack, 48 packs/master carton"
+      },
+      "commercial_terms": {
+        "moq": "100,000 pcs",
+        "lead_time": "15-20 days",
+        "sample_policy": "Free samples by international courier",
+        "incoterms": "FOB Xiamen / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "8 pads/pack",
+        "outer_carton": "48 packs/carton",
+        "cbm_per_carton": "0.042 m³",
+        "loading_40hq": "1,600 cartons (614,400 pcs)"
+      }
+    },
+    {
+      "sku_id": "HF-SN-350-03",
+      "name": "Huifeng Extra-Long Overnight Sanitary Napkin (350mm)",
+      "category": "sanitary_napkins",
+      "materials": "Extra-wide fan-shaped butterfly backsheet, heavy fluff pulp & SAP core, ultra-soft nonwoven",
+      "dimensions": "350mm length x 175mm rear fan width",
+      "applicable_sites": [
+        "huifengsanitary",
+        "oemsanitarynapkins",
+        "mianxiangcare",
+        "anionsanitarypads",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Women during night sleep with heavy flow",
+      "types_available": [
+        "Herbal Essence Core",
+        "Pure Organic Cotton",
+        "Bamboo Fiber Contact Layer"
+      ],
+      "features": [
+        "175mm rear fan tail shielding backflow during sleeping rolls",
+        "High-capacity absorbent matrix locking up to 250ml",
+        "Skin-friendly nonwoven preventing chafing and irritation"
+      ],
+      "specifications": {
+        "absorption_capacity": "250 ml",
+        "rewet_value": "< 0.20 g",
+        "packaging_style": "6 pcs/pack, 48 packs/carton"
+      },
+      "commercial_terms": {
+        "moq": "100,000 pcs",
+        "lead_time": "18-22 days",
+        "sample_policy": "Free sample packs available",
+        "incoterms": "FOB / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "6 pads/pack",
+        "outer_carton": "48 packs/carton",
+        "cbm_per_carton": "0.045 m³",
+        "loading_40hq": "1,500 cartons (432,000 pcs)"
+      }
+    },
+    {
+      "sku_id": "HF-SL-155-04",
+      "name": "Huifeng Proprietary Snow Lotus Herbal Gynecological Care Patch (155mm)",
+      "category": "snow_lotus_patches",
+      "materials": "100% natural cotton topsheet, Saussurea involucrata (Snow Lotus) extract active matrix, botanical essence chip, microporous breathable PE film",
+      "dimensions": "155mm length x 65mm width",
+      "applicable_sites": [
+        "huifengsanitary",
+        "snowlotuscare",
+        "mianxiangcare",
+        "privatelabelhygiene"
+      ],
+      "target_user_group": "Adult women for non-menstrual daily reproductive wellness and gynecological conditioning",
+      "types_available": [
+        "Snow Lotus Classic",
+        "Snow Lotus Warming Core (Moxa & Angelica)"
+      ],
+      "features": [
+        "Direct transdermal botanical absorption through perineal acupoints",
+        "Relieves gynecological coldness, abnormal odor, and discomfort",
+        "Individual medical-grade aluminum foil barrier packaging preventing volatilization",
+        "Developed under Fujian Huifeng Pharmaceutical technical standards"
+      ],
+      "specifications": {
+        "herbal_concentration": "High-purity freeze-dried active extract",
+        "safety_testing": "0.00 skin irritation test, microbial purity tested by Zhongke Huiju CMA Lab",
+        "packaging_style": "10 or 30 patches per premium aluminum foil gift box"
+      },
+      "commercial_terms": {
+        "moq": "20,000 boxes",
+        "lead_time": "20-25 days",
+        "sample_policy": "Trial packs available for health clinics and distributors",
+        "incoterms": "FOB Xiamen / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "10 patches/aluminum box",
+        "outer_carton": "60 boxes/carton",
+        "cbm_per_carton": "0.035 m³",
+        "loading_40hq": "1,900 cartons (1,140,000 patches)"
+      }
+    },
+    {
+      "sku_id": "HF-PP-01",
+      "name": "Huifeng 360-Degree Disposable Period Panties (Menstrual Pants)",
+      "category": "period_panties",
+      "materials": "Lycra elastic waistband, high-speed composite SAP absorbent core, ultrasonic bonded nonwoven fabric",
+      "dimensions": "M/L/XL sizes covering 60cm - 120cm hip sizes",
+      "applicable_sites": [
+        "huifengsanitary",
+        "periodpantiesfactory",
+        "oemsanitarynapkins",
+        "privatelabelhygiene",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Young women and postpartum mothers during heavy night sleep",
+      "types_available": [
+        "Cotton Soft Regular",
+        "Cooling Mint Chip",
+        "Eco Bamboo Fiber"
+      ],
+      "features": [
+        "360-degree all-around leak prevention allowing unrestricted movement",
+        "Super-stretchy bubble waistband without red indentation marks on waist",
+        "Rapid absorption up to 350ml fluid, equivalent to 3 standard sanitary pads"
+      ],
+      "specifications": {
+        "absorption_capacity": "350 ml saline solution",
+        "rewet_value": "< 0.10 g",
+        "tensile_strength": "> 15 N waistband stretch",
+        "packaging_style": "2 or 3 pcs per pouch, 36 pouches/carton"
+      },
+      "commercial_terms": {
+        "moq": "50,000 pcs",
+        "lead_time": "20-25 days",
+        "sample_policy": "Free sample units available for fit & stretch testing",
+        "incoterms": "FOB Xiamen / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "3 pcs/polybag",
+        "outer_carton": "36 bags/carton",
+        "cbm_per_carton": "0.048 m³",
+        "loading_40hq": "1,400 cartons (151,200 pcs)"
+      }
+    },
+    {
+      "sku_id": "HF-BD-TAPE-01",
+      "name": "Huifeng Ultra-Soft Breathable Baby Diapers (Tape Style)",
+      "category": "baby_diapers",
+      "materials": "3D pearl embossed hot-air through nonwoven topsheet, Sumitomo/BASF SAP, magic S-cut side tapes, breathable microporous cloth-like backsheet",
+      "dimensions": "S (3-6kg), M (6-11kg), L (9-14kg), XL (>12kg)",
+      "applicable_sites": [
+        "huifengsanitary",
+        "babydiaperfactory",
+        "miaoyuancare",
+        "privatelabelhygiene",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Infants and toddlers from newborn to 36 months",
+      "types_available": [
+        "Miaoyuan (妙缘) Plant Care Series",
+        "GLADO Diamond Series",
+        "QIPA Premium Export Edition"
+      ],
+      "features": [
+        "Instant liquid penetration within 0.5 seconds preventing soggy bottoms",
+        "5-layer composite ultra-thin core that never clumps or breaks after swelling",
+        "Double-layer 3D hydrophobic leak guards preventing side blowouts",
+        "Intelligent wetness indicator fading from yellow to dark green"
+      ],
+      "specifications": {
+        "absorption_capacity": "600ml - 1000ml (depending on size)",
+        "rewet_value": "< 0.15 g (ISO standard)",
+        "dermatest_status": "Zero skin irritation, hypoallergenic certified",
+        "packaging_style": "48 pcs/bag (Size M), 4 bags/carton"
+      },
+      "commercial_terms": {
+        "moq": "1x40HQ container (approx 360,000 pcs mixed sizes)",
+        "lead_time": "20-25 days for initial OEM packaging",
+        "sample_policy": "Free multi-size trial sample sets",
+        "incoterms": "FOB Xiamen / CIF",
+        "port": "Xiamen Port / Quanzhou Port"
+      },
+      "packaging": {
+        "inner_pack": "48 pcs/bag (Size M)",
+        "outer_carton": "4 bags/carton (192 pcs/carton)",
+        "cbm_per_carton": "0.065 m³",
+        "loading_40hq": "1,050 cartons (201,600 pcs in cartons) or 360,000 pcs in poly master bags"
+      }
+    },
+    {
+      "sku_id": "HF-BP-PANTS-02",
+      "name": "Huifeng 360-Degree Elastic Baby Pull-Up Pants",
+      "category": "baby_pullups",
+      "materials": "Elastic spandex bubble waistband, dual core SAP and fluff matrix, hot-air nonwoven, tearable side seams",
+      "dimensions": "M (6-11kg), L (9-14kg), XL (12-17kg), XXL (>15kg)",
+      "applicable_sites": [
+        "huifengsanitary",
+        "babypulluppants",
+        "babydiaperfactory",
+        "miaoyuancare",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Active crawling and walking toddlers undergoing potty training",
+      "types_available": [
+        "Day & Night Dual Core",
+        "Miaoyuan Ultra-Gentle",
+        "Custom Cartoon Printed"
+      ],
+      "features": [
+        "360-degree soft bubble elastic waistband mimicking baby underwear",
+        "Quick tear-away side seams for mess-free diaper changing",
+        "Disposal tape on back for sanitary roll-up discarding",
+        "Uniform liquid diversion avoiding localized swelling"
+      ],
+      "specifications": {
+        "absorption_capacity": "700ml - 1100ml",
+        "rewet_value": "< 0.18 g",
+        "waistband_elasticity": "Extends up to 2.5x original width without pinching",
+        "packaging_style": "42 pcs/bag (Size L), 4 bags/carton"
+      },
+      "commercial_terms": {
+        "moq": "1x40HQ container",
+        "lead_time": "20-25 days",
+        "sample_policy": "Free sample diaper pants available",
+        "incoterms": "FOB / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "42 pcs/bag (Size L)",
+        "outer_carton": "4 bags/carton (168 pcs/carton)",
+        "cbm_per_carton": "0.068 m³",
+        "loading_40hq": "1,000 cartons (168,000 pcs in cartons)"
+      }
+    },
+    {
+      "sku_id": "HF-ECO-BAMBOO-03",
+      "name": "Huifeng 100% Bamboo Fiber Biodegradable Baby Diapers",
+      "category": "bamboo_eco_diapers",
+      "materials": "100% natural organic bamboo fiber topsheet & backsheet, FSC certified chlorine-free virgin fluff pulp, biodegradable PLA packaging film",
+      "dimensions": "S, M, L, XL",
+      "applicable_sites": [
+        "huifengsanitary",
+        "bamboobiodegradablediapers",
+        "babydiaperfactory",
+        "privatelabelhygiene"
+      ],
+      "target_user_group": "Eco-conscious parents and sensitive-skin babies prone to severe rash",
+      "types_available": [
+        "Unprinted Natural",
+        "Custom Organic Soy Ink Print"
+      ],
+      "features": [
+        "Naturally antibacterial and hypoallergenic bamboo fibers",
+        "Over 65% biodegradable by weight under industrial composting conditions (ISO 14855 / ASTM D6400)",
+        "100% TCF (Totally Chlorine Free) bleached cellulose core",
+        "Zero plastics contacting delicate baby skin"
+      ],
+      "specifications": {
+        "bamboo_purity": "100% certified organic bamboo nonwoven",
+        "biodegradation_rate": "Tested according to EN 13432 & ASTM D6400 standards",
+        "absorption": "800ml - 1100ml",
+        "packaging_style": "32 pcs/bag, PLA biodegradable outer pouch"
+      },
+      "commercial_terms": {
+        "moq": "100,000 pcs",
+        "lead_time": "25-30 days",
+        "sample_policy": "Eco testing dossier and sample kit available",
+        "incoterms": "FOB Xiamen / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "32 pcs/kraft paper or PLA bag",
+        "outer_carton": "6 bags/carton",
+        "cbm_per_carton": "0.072 m³",
+        "loading_40hq": "950 cartons (182,400 pcs)"
+      }
+    },
+    {
+      "sku_id": "HF-AD-TAPE-01",
+      "name": "Huifeng Heavy Absorbency Adult Incontinence Diapers (Tab Style)",
+      "category": "adult_diapers",
+      "materials": "Hydrophilic nonwoven topsheet, high ratio Sumitomo SAP + Weyerhaeuser fluff pulp, PE or breathable textile backsheet, refastenable PP frontal tape",
+      "dimensions": "M (waist 75-115cm), L (waist 100-145cm), XL (waist 130-175cm)",
+      "applicable_sites": [
+        "huifengsanitary",
+        "weishulicare",
+        "bulkadultdiapers",
+        "disposableunderpadfactory",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Bedridden elderly patients, post-surgical recovery, severe urinary/fecal incontinence",
+      "types_available": [
+        "Weishuli (卫舒理) Medical Grade",
+        "Economy Institutional Bulk Pack",
+        "Super Heavy 3500ml Night Edition"
+      ],
+      "features": [
+        "High concentration SAP core providing up to 3500ml absorption capacity",
+        "Antibacterial odor-neutralizing system neutralizing ammonia smell within minutes",
+        "3D standing cuffs preventing fluid and bowel movement leakage",
+        "Double wetness indicators signaling caregiver change time clearly"
+      ],
+      "specifications": {
+        "absorption_capacity": "2500ml - 3500ml (Rothwell method ISO 11948-1)",
+        "rewet_value": "< 0.20 g",
+        "medical_device_status": "CE MDR Class I, FDA Registered, ISO 13485 QMS compliance",
+        "packaging_style": "10 pcs/polybag, 10 bags/outer poly master bag (100 pcs/pack)"
+      },
+      "commercial_terms": {
+        "moq": "1x40HQ container (approx 75,000 - 85,000 pcs)",
+        "lead_time": "15-20 business days",
+        "sample_policy": "Free hospital trial packs",
+        "incoterms": "FOB Xiamen / CIF / CFR",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "10 pcs/bag",
+        "outer_pack": "8 or 10 bags in compressed poly master bag",
+        "cbm_per_master_pack": "0.082 m³",
+        "loading_40hq": "820 master packs (82,000 pcs)"
+      }
+    },
+    {
+      "sku_id": "HF-AP-PULLUP-02",
+      "name": "Huifeng Active Elder Adult Incontinence Pull-Up Pants",
+      "category": "adult_pullups",
+      "materials": "360-degree soft elastic waistband, composite absorbent core, breathable micro-embossed nonwoven backsheet",
+      "dimensions": "M (waist 60-90cm), L (waist 80-120cm), XL (waist 100-140cm)",
+      "applicable_sites": [
+        "huifengsanitary",
+        "weishulicare",
+        "adultpullupbriefs",
+        "bulkadultdiapers",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Mobile seniors with mild to moderate bladder leakage maintaining active lifestyle",
+      "types_available": [
+        "Weishuli Active Care",
+        "Super Discreet Low-Rise Cut"
+      ],
+      "features": [
+        "Looks and feels like regular cotton underwear for discrete protection",
+        "Breathable waistband expelling sweat and body heat during walking",
+        "Fast core absorption (1500ml) maintaining skin dryness all day",
+        "Tearable side seams allowing simple and clean removal"
+      ],
+      "specifications": {
+        "absorption_capacity": "1200ml - 1800ml",
+        "rewet_value": "< 0.15 g",
+        "packaging_style": "10 pcs/bag, 8 bags/carton"
+      },
+      "commercial_terms": {
+        "moq": "50,000 pcs",
+        "lead_time": "18-22 days",
+        "sample_policy": "Free clinical trial units",
+        "incoterms": "FOB / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "10 pcs/bag",
+        "outer_carton": "8 bags/carton (80 pcs/carton)",
+        "cbm_per_carton": "0.062 m³",
+        "loading_40hq": "1,100 cartons (88,000 pcs)"
+      }
+    },
+    {
+      "sku_id": "HF-UP-PAD-01",
+      "name": "Huifeng Medical Disposable Underpads & Bed Protection Pads",
+      "category": "nursing_underpads",
+      "materials": "Hydrophilic nonwoven surface, virgin wood pulp, super absorbent polymer (SAP), waterproof PE backing, sealed 4-side borders",
+      "dimensions": "60cm x 60cm, 60cm x 90cm, 80cm x 90cm, 80cm x 150cm",
+      "applicable_sites": [
+        "huifengsanitary",
+        "disposableunderpadfactory",
+        "weishulicare",
+        "bulkadultdiapers",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Hospital patient beds, ICU intensive care, surgical tables, home nursing care",
+      "types_available": [
+        "Economy Standard (40g/pc)",
+        "Hospital Heavy Duty (75g/pc)",
+        "Super Absorbent ICU Grade (105g/pc)"
+      ],
+      "features": [
+        "Diamond embossed channels spreading liquid uniformly across entire pad in seconds",
+        "Non-skid blue or white waterproof PE backsheet protecting mattresses and sheets",
+        "Folded edge seals preventing liquid overflow from sides",
+        "Lint-free surface safe for post-operative open incision contact"
+      ],
+      "specifications": {
+        "absorption_capacity": "800ml - 2200ml (60x90cm)",
+        "grammage_range": "40g to 110g per piece according to buyer tender spec",
+        "certifications": "CE MDR Class I, ISO 13485 medical device audited",
+        "packaging_style": "10 or 15 pcs/bag, 10 bags/carton or master polybag"
+      },
+      "commercial_terms": {
+        "moq": "1x20GP container (approx 60,000 pcs 60x90cm)",
+        "lead_time": "15-20 days",
+        "sample_policy": "Free hospital samples by express",
+        "incoterms": "FOB Xiamen / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "10 pcs/bag",
+        "outer_carton": "10 bags/carton (100 pcs/carton)",
+        "cbm_per_carton": "0.055 m³",
+        "loading_40hq": "1,250 cartons (125,000 pcs)"
+      }
+    },
+    {
+      "sku_id": "HF-MP-PAD-01",
+      "name": "Huifeng Obstetric Postpartum Maternity Care Pads",
+      "category": "maternity_pads",
+      "materials": "Extra-fluffy nonwoven contact sheet, airlaid wood pulp core, heavy liquid absorption matrix, adhesive fixing strip",
+      "dimensions": "380mm length x 150mm width, 450mm length x 180mm width",
+      "applicable_sites": [
+        "huifengsanitary",
+        "maternitypadsupplier",
+        "oemsanitarynapkins",
+        "privatelabelhygiene"
+      ],
+      "target_user_group": "New mothers during postpartum lochia discharge and delivery recovery",
+      "types_available": [
+        "Weighable Lochia Monitoring Pad",
+        "Extra Soft Cooling Aloe Pad"
+      ],
+      "features": [
+        "Cushioned thickness absorbing high volume sudden gushes of postpartum lochia",
+        "Soft cloud-like surface avoiding friction on sensitive episiotomy incisions",
+        "Adhesive positioning strip keeping pad securely centered in maternity underwear"
+      ],
+      "specifications": {
+        "absorption_capacity": "300ml - 500ml",
+        "microbial_purity": "Strict sterile or non-sterile hospital grade options",
+        "packaging_style": "4 pcs or 10 pcs/bag"
+      },
+      "commercial_terms": {
+        "moq": "50,000 pcs",
+        "lead_time": "15-20 days",
+        "sample_policy": "Hospital kit samples available",
+        "incoterms": "FOB / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "10 pcs/bag",
+        "outer_carton": "36 bags/carton",
+        "cbm_per_carton": "0.050 m³",
+        "loading_40hq": "1,350 cartons (486,000 pcs)"
+      }
+    },
+    {
+      "sku_id": "HF-WW-BABY-01",
+      "name": "Huifeng EDI 7-Stage Purified Water Baby Wet Wipes",
+      "category": "baby_wet_wipes",
+      "materials": "High-density spunlace nonwoven fabric (55gsm pearl jacquard), EDI 7-stage ultra-purified medical water, organic chamomile extract, vitamin E",
+      "dimensions": "150mm x 200mm per sheet, 80 sheets per pack",
+      "applicable_sites": [
+        "huifengsanitary",
+        "purewaterbabywipes",
+        "miaoyuancare",
+        "privatelabelhygiene",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Infants and toddlers for mouth, hand, and diaper area gentle cleansing",
+      "types_available": [
+        "Flip-Top Plastic Lid Pack (80 sheets)",
+        "Travel Pocket Pack (20 sheets)",
+        "Single Wrapped Individually"
+      ],
+      "features": [
+        "99.9% pure water formulation with food-grade purity standards",
+        "Zero alcohol, zero optical brighteners, zero parabens, zero formaldehyde",
+        "Thick 3D pearl texture easily capturing solid messes with a single wipe",
+        "Double seal (resealable peel sticker + hard flip cap) preventing drying out"
+      ],
+      "specifications": {
+        "water_purification": "EDI reverse osmosis 7-stage filtration system",
+        "ph_value": "Weakly acidic pH 5.5 matched to infant skin barrier",
+        "nonwoven_weight": "55 gsm thick pearl embossed spunlace",
+        "packaging_style": "80 sheets/pack with plastic lid, 24 packs/carton"
+      },
+      "commercial_terms": {
+        "moq": "30,000 packs",
+        "lead_time": "15-20 days",
+        "sample_policy": "Sample packs shipped free of charge",
+        "incoterms": "FOB Xiamen / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "80 sheets/pack with flip lid",
+        "outer_carton": "24 packs/carton",
+        "cbm_per_carton": "0.032 m³",
+        "loading_40hq": "2,100 cartons (50,400 packs)"
+      }
+    },
+    {
+      "sku_id": "HF-PET-PAD-01",
+      "name": "Huifeng Odor-Lock Puppy Training Pads & Pet Pee Pads",
+      "category": "pet_diapers_pads",
+      "materials": "Tough tear-resistant nonwoven topsheet, built-in puppy pheromone attractant, odor neutralizing high SAP core, leakproof PE film",
+      "dimensions": "45cm x 60cm (Medium), 60cm x 60cm (Large), 60cm x 90cm (Extra Large)",
+      "applicable_sites": [
+        "huifengsanitary",
+        "petdiapersfactory",
+        "privatelabelhygiene",
+        "retailreadyhygiene"
+      ],
+      "target_user_group": "Puppies in potty training, senior incontinent dogs, indoor pet owners",
+      "types_available": [
+        "Charcoal Black Odor-Absorbing",
+        "Classic Blue Border",
+        "Bamboo Grass Green"
+      ],
+      "features": [
+        "6-layer ultra-absorbent matrix holding up to 6 cups of liquid",
+        "Instantly turns urine into dry gel within 15 seconds to prevent paw tracking",
+        "Natural puppy attractant encourages pet to pee in designated pad zone",
+        "Non-slip waterproof PE backsheet protects hardwood floors and carpets"
+      ],
+      "specifications": {
+        "liquid_gel_conversion": "< 15 seconds fast polymer gelation",
+        "absorption_capacity": "800ml - 1600ml",
+        "scent_options": "Unscented, Citrus, Lavender, Grass Scent",
+        "packaging_style": "50 or 100 pads/printed bag with handle, 4 bags/carton"
+      },
+      "commercial_terms": {
+        "moq": "1x40HQ container",
+        "lead_time": "18-22 days",
+        "sample_policy": "Trial packs available for pet brand owners",
+        "incoterms": "FOB Xiamen / CIF",
+        "port": "Xiamen Port"
+      },
+      "packaging": {
+        "inner_pack": "50 pads/bag with handle",
+        "outer_carton": "4 bags/carton (200 pads/carton)",
+        "cbm_per_carton": "0.052 m³",
+        "loading_40hq": "1,300 cartons (260,000 pads)"
+      }
+    }
+  ]
+}

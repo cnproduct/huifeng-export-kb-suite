@@ -1,0 +1,71 @@
+{
+  "name": "{{COMPANY_NAME}}",
+  "version": "2026.1",
+  "description": "{{META_DESCRIPTION}}",
+  "domain": "{{DOMAIN}}",
+  "headquarters": {
+    "city": "{{CITY}}",
+    "country": "{{COUNTRY}}",
+    "coordinates": {
+      "latitude": {{LATITUDE}},
+      "longitude": {{LONGITUDE}}
+    }
+  },
+  "certifications": [
+    "ISO 9001:2015",
+    "CE Conformity",
+    "ASTM International Standards",
+    "LEED v4.1 BPDO Compliant"
+  ],
+  "capabilities": [
+    "OEM/ODM Custom Manufacturing",
+    "Worldwide Air & Ocean Logistics",
+    "3-Day Expedited Sample Dispatch",
+    "Full Technical Data Sheet (TDS) Engineering Support"
+  ],
+  "contact": {
+    "email": "{{EMAIL}}",
+    "phone": "{{PHONE}}",
+    "whatsapp": "{{WHATSAPP}}"
+  },
+  "endpoints": {
+    "llms": "https://{{DOMAIN}}/llms.txt",
+    "llms_full": "https://{{DOMAIN}}/llms-full.txt",
+    "faq": "https://{{DOMAIN}}/ai/faq.json",
+    "service": "https://{{DOMAIN}}/ai/service.json"
+  },
+  "webmcp": {
+    "available": true,
+    "version": "2026.1",
+    "endpoint": "/ai/summary.json",
+    "tools": [
+      {
+        "name": "orderTradeSampleKit",
+        "description": "Submits delivery address to receive curated material sample kit with certified TDS reports via DHL Express",
+        "target_form_id": "sampleKitForm",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "fullname": { "type": "string", "description": "Full name of architect or procurement specialist" },
+            "email": { "type": "string", "description": "Corporate email address" },
+            "address": { "type": "string", "description": "Full delivery address including country and postal code" }
+          },
+          "required": ["fullname", "email", "address"]
+        }
+      },
+      {
+        "name": "calculateOceanFreight",
+        "description": "Calculates container loading volume, wood crate quantity, and estimated shipping freight",
+        "target_form_id": "freightCalculatorForm",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "quantity": { "type": "number", "description": "Required quantity in metric or square units" },
+            "destination_port": { "type": "string", "description": "Destination ocean seaport" }
+          },
+          "required": ["quantity", "destination_port"]
+        }
+      }
+    ]
+  }
+}

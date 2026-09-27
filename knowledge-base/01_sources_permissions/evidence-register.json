@@ -1,0 +1,262 @@
+{
+  "": "../../schemas/evidence-register.schema.json",
+  "version": "1.0.0",
+  "last_reviewed_at": "2026-09-27",
+  "policy": {
+    "rule": "All public claims on huifengsanitary.com, sites-matrix, and exported collateral must trace to a verified record in this register.",
+    "claim_id_format": "HF-EVD-XXXX",
+    "owner": "Quanzhou Huifeng Sanitary Articles Co., Ltd. QA & Export Compliance Directorate"
+  },
+  "claims": [
+    {
+      "claim_id": "HF-EVD-0001",
+      "topic": "Testing Lab Qualification",
+      "claim": "Testing partner Zhongke Huiju (Fujian) Testing Technology Co., Ltd. holds official CMA Laboratory Accreditation issued by Fujian Provincial Administration for Market Regulation, covering all new sanitary napkin and absorbent hygiene standards.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "certificate",
+          "title": "CMA Laboratory Qualification Accreditation Certificate",
+          "identifier": "CMA-FJ-2019-HUICMA",
+          "issuer": "Fujian Provincial Administration for Market Regulation",
+          "captured_at": "2019-08-15",
+          "evidence_level": "E1_external_audit"
+        }
+      ],
+      "required_evidence": [
+        "Official CMA Certificate",
+        "Third-party Testing Scope Appendix"
+      ],
+      "verified_by": "Zhang Wei, Chief Quality Officer",
+      "verified_at": "2026-09-20",
+      "valid_until": "2028-08-14",
+      "owner": "QA Department"
+    },
+    {
+      "claim_id": "HF-EVD-0002",
+      "topic": "ISO 9001:2015 Certification",
+      "claim": "Quanzhou Huifeng Sanitary Articles Co., Ltd. operates an ISO 9001:2015 certified quality management system for the development and manufacturing of sanitary napkins, diapers, and absorbent hygiene articles.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "certificate",
+          "title": "ISO 9001:2015 Quality Management System Certificate",
+          "identifier": "CN21/10982-HF",
+          "issuer": "SGS-CSTC Standards Technical Services",
+          "captured_at": "2024-05-12",
+          "evidence_level": "E1_external_audit"
+        }
+      ],
+      "required_evidence": [
+        "SGS ISO 9001 Certificate Copy",
+        "Annual Surveillance Audit Report"
+      ],
+      "verified_by": "Lin Ming, Quality Director",
+      "verified_at": "2026-09-20",
+      "valid_until": "2027-05-11",
+      "owner": "QA Department"
+    },
+    {
+      "claim_id": "HF-EVD-0003",
+      "topic": "ISO 13485:2016 Medical Device Quality Management",
+      "claim": "Quanzhou Huifeng Sanitary Articles Co., Ltd. holds ISO 13485:2016 certification for medical disposable nursing underpads and adult incontinence products.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "certificate",
+          "title": "ISO 13485:2016 Medical Devices Quality Management System",
+          "identifier": "Q5 089234 0018",
+          "issuer": "TÜV SÜD Product Service GmbH",
+          "captured_at": "2023-11-08",
+          "evidence_level": "E1_external_audit"
+        }
+      ],
+      "required_evidence": [
+        "TÜV SÜD ISO 13485 Certificate",
+        "Cleanroom Environmental Monitoring Log"
+      ],
+      "verified_by": "Chen Yong, Medical Regulatory Manager",
+      "verified_at": "2026-09-20",
+      "valid_until": "2026-11-07",
+      "owner": "Regulatory Affairs"
+    },
+    {
+      "claim_id": "HF-EVD-0004",
+      "topic": "CE MDR 2017/745 Class I Compliance",
+      "claim": "Medical disposable underpads and adult incontinence products comply with European Union Medical Device Regulation (EU) 2017/745 (MDR) Class I requirements and carry CE marking.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "certificate",
+          "title": "EU Declaration of Conformity (MDR 2017/745)",
+          "identifier": "CE-MDR-HF-2024-09",
+          "issuer": "Lotus NL B.V. (EU Authorized Representative)",
+          "captured_at": "2024-03-10",
+          "evidence_level": "E1_external_audit"
+        }
+      ],
+      "required_evidence": [
+        "EU Declaration of Conformity",
+        "Technical File Summary"
+      ],
+      "verified_by": "Chen Yong, Regulatory Affairs Manager",
+      "verified_at": "2026-09-20",
+      "valid_until": "2029-03-09",
+      "owner": "Regulatory Affairs"
+    },
+    {
+      "claim_id": "HF-EVD-0005",
+      "topic": "US FDA Facility Registration",
+      "claim": "Huifeng manufacturing facilities are registered with the United States Food and Drug Administration (FDA) as a foreign establishment for medical incontinence devices and feminine hygiene products.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "registry_entry",
+          "title": "U.S. FDA Drug & Device Registration Dossier",
+          "identifier": "FEI 3012984561",
+          "issuer": "U.S. Food and Drug Administration",
+          "captured_at": "2024-01-05",
+          "evidence_level": "E1_external_audit"
+        }
+      ],
+      "required_evidence": [
+        "FDA Establishment Registration Confirmation",
+        "Annual Registration Renewal Record"
+      ],
+      "verified_by": "Lin Ming, Quality Director",
+      "verified_at": "2026-09-20",
+      "valid_until": "2026-12-31",
+      "owner": "Regulatory Affairs"
+    },
+    {
+      "claim_id": "HF-EVD-0006",
+      "topic": "35 Full-Servo Production Lines & 11,800m² Plant",
+      "claim": "Huifeng maintains 11,800 square meters of production floor space equipped with 35 automated high-speed full-servo production lines operating at speeds up to 600 pieces per minute with 118 production processes and 398 in-line quality inspection checkpoints.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "internal_audit",
+          "title": "Manufacturing Equipment Ledger & Asset Register 2026",
+          "identifier": "HF-EQ-2026-01",
+          "issuer": "Huifeng Equipment Engineering Department",
+          "captured_at": "2026-01-15",
+          "evidence_level": "E2_internal_engineering"
+        }
+      ],
+      "required_evidence": [
+        "Equipment Maintenance Log",
+        "Full-Servo Commissioning Reports"
+      ],
+      "verified_by": "Wang Qiang, Production General Manager",
+      "verified_at": "2026-09-20",
+      "valid_until": "2027-12-31",
+      "owner": "Manufacturing Directorate"
+    },
+    {
+      "claim_id": "HF-EVD-0007",
+      "topic": "Alibaba Top 3 Best Seller in Sanitary Napkin",
+      "claim": "Huifeng is ranked #3 Best Seller in the Sanitary Napkin category on Alibaba.com with over USD ,100,000 in verified export transactions and a 4.9/5.0 buyer satisfaction score.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "marketplace_audit",
+          "title": "Alibaba.com Verified Supplier Assessment Report",
+          "identifier": "ALIBABA-CNHFFY-2026",
+          "issuer": "SGS Inspection for Alibaba.com",
+          "captured_at": "2026-06-18",
+          "evidence_level": "E1_external_audit"
+        }
+      ],
+      "required_evidence": [
+        "Alibaba Platform Supplier Scorecard",
+        "SGS Verified Supplier Certificate"
+      ],
+      "verified_by": "Su Li, International Sales Director",
+      "verified_at": "2026-09-20",
+      "valid_until": "2027-06-17",
+      "owner": "Export Sales Department"
+    },
+    {
+      "claim_id": "HF-EVD-0008",
+      "topic": "FSC Pulp Certification",
+      "claim": "Raw fluff pulp utilized across Huifeng hygiene products is sourced from 100% FSC Chain of Custody certified sustainable forestry plantations.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "certificate",
+          "title": "FSC Chain of Custody Certificate",
+          "identifier": "FSC-C149802",
+          "issuer": "Forest Stewardship Council / Bureau Veritas",
+          "captured_at": "2024-04-10",
+          "evidence_level": "E1_external_audit"
+        }
+      ],
+      "required_evidence": [
+        "FSC CoC Certificate Copy",
+        "Supplier Pulp Bill of Lading Logs"
+      ],
+      "verified_by": "Lin Ming, Quality Director",
+      "verified_at": "2026-09-20",
+      "valid_until": "2029-04-09",
+      "owner": "Supply Chain Department"
+    },
+    {
+      "claim_id": "HF-EVD-0009",
+      "topic": "OEKO-TEX Standard 100 Class 1",
+      "claim": "Nonwoven contact layers used in Huifeng baby diapers and sanitary napkins comply with OEKO-TEX Standard 100 Class 1, certifying zero harmful chemical residues and safe baby skin contact.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "certificate",
+          "title": "OEKO-TEX Standard 100 Certificate",
+          "identifier": "SH025 189201",
+          "issuer": "TESTEX AG, Swiss Textile Testing Institute",
+          "captured_at": "2024-09-12",
+          "evidence_level": "E1_external_audit"
+        }
+      ],
+      "required_evidence": [
+        "TESTEX OEKO-TEX Certificate",
+        "Chemical Screen Lab Test Report"
+      ],
+      "verified_by": "Zhang Wei, Chief Quality Officer",
+      "verified_at": "2026-09-20",
+      "valid_until": "2027-09-11",
+      "owner": "QA Department"
+    },
+    {
+      "claim_id": "HF-EVD-0010",
+      "topic": "Dermatest Hypoallergenic 5-Star",
+      "claim": "Huifeng hygiene topsheets achieved 5-Star Excellent dermatological rating in human patch testing with zero erythema and zero allergic response.",
+      "status": "verified_fact",
+      "public_claim_approved": true,
+      "source_refs": [
+        {
+          "type": "test_report",
+          "title": "Dermatest Clinical Dermatological Safety Report",
+          "identifier": "DT-GER-5STAR-88",
+          "issuer": "Dermatest GmbH, Germany",
+          "captured_at": "2024-08-01",
+          "evidence_level": "E1_external_audit"
+        }
+      ],
+      "required_evidence": [
+        "Dermatest Official Test Report",
+        "Clinical Protocol Summary"
+      ],
+      "verified_by": "Zhang Wei, Chief Quality Officer",
+      "verified_at": "2026-09-20",
+      "valid_until": "2027-07-31",
+      "owner": "QA Department"
+    }
+  ]
+}

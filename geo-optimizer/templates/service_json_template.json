@@ -1,0 +1,26 @@
+{
+  "name": "{{COMPANY_NAME}} B2B Manufacturing & Global Logistics Services",
+  "provider": "{{COMPANY_NAME}}",
+  "category": "B2B Export Manufacturing",
+  "serviceType": "Contract Manufacturing, OEM/ODM Engineering, and Global Supply Chain",
+  "capabilities": [
+    "Custom Dimension & Tolerance Fabrication (CNC & Waterjet Precision)",
+    "Strict Multi-Stage Quality Assurance (IQC, IPQC, FQC, ASTM/ISO Validation)",
+    "Accelerated 3-Day Sample Curation & Air Express Dispatch (DHL/FedEx)",
+    "Full Container Load (FCL) & Less than Container Load (LCL) Seaworthy Packaging",
+    "Comprehensive Export Documentation (CO, Form E, Bill of Lading, Commercial Invoice, Packing List)",
+    "Global Architectural & Engineering Project Consultation (BIM / CAD Support)"
+  ],
+  "terms": {
+    "moq": "Flexible tiered MOQ tailored to project requirements",
+    "paymentTerms": ["T/T", "L/C at sight", "Western Union"],
+    "leadTime": "3-7 days for sample dispatch, 15-25 days for container mass production",
+    "warranty": "10-25 years architectural durability warranty"
+  },
+  "serviceCoverage": "Worldwide across 220+ countries and territories",
+  "contact": {
+    "email": "{{EMAIL}}",
+    "phone": "{{PHONE}}",
+    "website": "https://{{DOMAIN}}"
+  }
+}

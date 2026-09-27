@@ -1,0 +1,41 @@
+{
+  "name": "huifeng-export-kb-suite",
+  "version": "1.0.0",
+  "description": "Quanzhou Huifeng Sanitary Articles Co., Ltd. (泉州市惠丰妇幼用品有限公司) 20-Site B2B Export Knowledge Base Suite, Diaper & Feminine Care Content Generation Engine & 100/100 GEO AI Discovery Platform",
+  "type": "module",
+  "scripts": {
+    "verify": "node scripts/validate-suite.mjs",
+    "verify:publish": "node scripts/validate-suite.mjs --publish",
+    "test": "node scripts/test-generation.mjs",
+    "test:evidence": "node scripts/test-evidence.mjs",
+    "generate:content": "node generators/site-content-generator.mjs",
+    "generate:sitemap": "node generators/sitemap-generator.mjs",
+    "generate:llms": "node generators/llms-generator.mjs",
+    "start:mcp": "node mcp/index.mjs",
+    "start:portal": "npx serve portal -l 8080",
+    "geo:build": "node generators/geo-bridge.mjs",
+    "geo:test": "node generators/geo-bridge.mjs --test",
+    "geo:scan-links": "python3 geo-optimizer/scripts/link_ast_scanner.py",
+    "geo:optimize-density": "python3 geo-optimizer/scripts/keyword_density_optimizer.py",
+    "geo:annotate-webmcp": "python3 geo-optimizer/scripts/webmcp_annotator.py"
+  },
+  "keywords": [
+    "b2b",
+    "export",
+    "knowledge-base",
+    "sanitary-napkins",
+    "baby-diapers",
+    "adult-incontinence",
+    "underpads",
+    "snow-lotus",
+    "mianxiang",
+    "miaoyuan",
+    "weishuli",
+    "geo",
+    "seo",
+    "mcp",
+    "quanzhou-huifeng"
+  ],
+  "author": "Quanzhou Huifeng Sanitary Articles Co., Ltd. AI Innovation Team & RenWork AI",
+  "license": "MIT"
+}

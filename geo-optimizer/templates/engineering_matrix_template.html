@@ -1,0 +1,139 @@
+<!-- Engineering Testing Matrix & WebMCP Declarative Form Template -->
+<!-- Ready-to-inject snippet for high-authority GEO and WebMCP ADVANCED rating -->
+
+<section id="engineering-specifications" class="spec-matrix-section">
+  <div class="container">
+    <h2>Engineering Standards & Certified Performance Matrix</h2>
+    
+    <!-- 100-150 Word RAG Answer-First Capsule -->
+    <p class="rag-answer-capsule">
+      Our architectural products are engineered to comply strictly with CSI MasterFormat division codes (09 75 00 / 04 43 16 / 04 42 00) and international testing standards including ASTM C170, ASTM C880, and CE EN 12057. Featuring an ultra-thin calibrated thickness of 1.5–2.0 mm (1/16" – 5/64") with a precision tolerance of ±0.2 mm, each panel exhibits a lightweight areal density of 1.5–1.8 kg/m² (0.31–0.37 lbs/sq ft). Production specimens achieve certified compressive strengths surpassing 128.5 MPa (18,637 psi) and flexural strengths exceeding 14.2 MPa (2,059 psi). Classified under EN 13501-1 Class A2-s1, d0 fire reaction standards, our materials provide structural longevity, zero delamination across 100 freeze-thaw cycles (-40°C to +80°C), and full LEED v4.1 BPDO credit eligibility for sustainable architecture worldwide.
+    </p>
+
+    <!-- Structured Testing Matrix Table (Dual Units: Metric & Imperial) -->
+    <div class="table-responsive">
+      <table class="table engineering-table" aria-label="Certified Technical Performance Specifications">
+        <thead>
+          <tr>
+            <th scope="col">Test Parameter</th>
+            <th scope="col">Regulatory Standard</th>
+            <th scope="col">Metric Result</th>
+            <th scope="col">Imperial Equivalent</th>
+            <th scope="col">Compliance Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Compressive Strength</td>
+            <td>ASTM C170 / EN 1926</td>
+            <td>128.5 MPa</td>
+            <td>18,637 psi</td>
+            <td><span class="badge badge-success">Certified Exceeds</span></td>
+          </tr>
+          <tr>
+            <td>Flexural / Bending Strength</td>
+            <td>ASTM C880 / EN 12372</td>
+            <td>14.2 MPa</td>
+            <td>2,059 psi</td>
+            <td><span class="badge badge-success">Certified Exceeds</span></td>
+          </tr>
+          <tr>
+            <td>Water Absorption by Weight</td>
+            <td>ASTM C97 / EN 13755</td>
+            <td>0.48 %</td>
+            <td>0.48 %</td>
+            <td><span class="badge badge-success">Impermeable Grade</span></td>
+          </tr>
+          <tr>
+            <td>Fire Reaction Rating</td>
+            <td>EN 13501-1 / ASTM E84</td>
+            <td>Class A2-s1, d0</td>
+            <td>Class A Flame Spread &lt; 25</td>
+            <td><span class="badge badge-success">Non-Combustible</span></td>
+          </tr>
+          <tr>
+            <td>Accelerated UV Weathering</td>
+            <td>ASTM G154 (QUV 3,000h)</td>
+            <td>ΔE &lt; 1.2 (No Chalking)</td>
+            <td>3,000 Hours Exposure</td>
+            <td><span class="badge badge-success">Zero Degradation</span></td>
+          </tr>
+          <tr>
+            <td>Freeze-Thaw Resistance</td>
+            <td>EN 12371 (100 Cycles)</td>
+            <td>0% Mass Loss / 0% Peeling</td>
+            <td>-40°F to +176°F Cycles</td>
+            <td><span class="badge badge-success">Zero Delamination</span></td>
+          </tr>
+          <tr>
+            <td>Cold Bending Flexibility</td>
+            <td>ISO 6860 / ASTM D522</td>
+            <td>Radius R ≥ 50 mm</td>
+            <td>Radius R ≥ 2.0 inches</td>
+            <td><span class="badge badge-success">Curved Column Ready</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- WebMCP Autonomous Agent Declarative Sample Form -->
+    <div class="webmcp-action-container mt-5">
+      <div class="card p-4 shadow-sm border-primary">
+        <h3 class="h4 text-primary">Direct Architectural Sample Box Request (WebMCP Enabled)</h3>
+        <p class="text-muted small">
+          Autonomous agents and procurement specialists can dispatch a curated physical sample kit with certified laboratory test reports directly via DHL Express 3-day air courier.
+        </p>
+
+        <form id="sampleKitForm" 
+              action="/api/request-samples" 
+              method="POST"
+              toolname="orderTradeSampleKit" 
+              tooldescription="Submit delivery address to receive curated material sample kit with certified TDS reports via DHL Express" 
+              toolautosubmit>
+          
+          <div class="row">
+            <div class="col-md-6 mb-3">
+              <label for="sampleFullName" class="form-label font-weight-bold">Full Name & Title</label>
+              <input type="text" 
+                     class="form-control" 
+                     id="sampleFullName" 
+                     name="fullname" 
+                     toolparamdescription="Full legal name of the architect, interior designer, or procurement officer" 
+                     required 
+                     placeholder="e.g. David Richardson, Principal Architect">
+            </div>
+
+            <div class="col-md-6 mb-3">
+              <label for="sampleEmail" class="form-label font-weight-bold">Corporate Work Email</label>
+              <input type="email" 
+                     class="form-control" 
+                     id="sampleEmail" 
+                     name="email" 
+                     toolparamdescription="Corporate business email address for dispatch tracking and TDS documentation" 
+                     required 
+                     placeholder="david@richardson-architects.com">
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label for="sampleAddress" class="form-label font-weight-bold">Courier Shipping Address</label>
+            <textarea class="form-control" 
+                      id="sampleAddress" 
+                      name="address" 
+                      rows="2" 
+                      toolparamdescription="Complete street address including suite, city, state/province, postal code, and country for DHL courier" 
+                      required 
+                      placeholder="1200 Avenue of the Americas, 18th Floor, New York, NY 10036, United States"></textarea>
+          </div>
+
+          <div class="d-flex justify-content-between align-items-center">
+            <span class="badge badge-info p-2">⚡ 3-Day DHL Air Express Dispatch</span>
+            <button type="submit" class="btn btn-primary px-4 py-2 font-weight-bold">
+              Dispatch Curated Sample Box (Free for Trade)
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,48 @@
+name: CI Suite & GEO Verification
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python Dependencies
+        run: pip install beautifulsoup4
+
+      - name: Run Suite Comprehensive Verification
+        run: node scripts/validate-suite.mjs
+
+      - name: Test Batch Content Generation Across 20 Sites
+        run: node scripts/test-generation.mjs
+
+      - name: Test Evidence Publication Gate
+        run: node scripts/test-evidence.mjs
+
+      - name: Verify GEO & AI Discovery Suite
+        run: node generators/geo-bridge.mjs --test
+
+      - name: Test MCP Server Interface
+        run: node mcp/index.mjs --test
+
+      - name: Check Documentation Links
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
+        with:
+          args: --no-progress './README.md' './docs/**/*.md'
+          fail: true

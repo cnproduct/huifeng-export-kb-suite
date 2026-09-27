@@ -1,0 +1,205 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://{{DOMAIN}}/#organization",
+      "name": "{{COMPANY_NAME}}",
+      "legalName": "{{LEGAL_COMPANY_NAME}}",
+      "url": "https://{{DOMAIN}}",
+      "logo": "https://{{DOMAIN}}/assets/img/logo.png",
+      "description": "{{META_DESCRIPTION}}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{STREET_ADDRESS}}",
+        "addressLocality": "{{CITY}}",
+        "addressRegion": "{{REGION}}",
+        "postalCode": "{{POSTAL_CODE}}",
+        "addressCountry": "{{COUNTRY_CODE}}"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": {{LATITUDE}},
+        "longitude": {{LONGITUDE}}
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/{{WIKIDATA_ID}}",
+        "https://en.wikipedia.org/wiki/{{WIKIPEDIA_SLUG}}",
+        "https://www.linkedin.com/company/{{LINKEDIN_SLUG}}",
+        "https://www.crunchbase.com/organization/{{CRUNCHBASE_SLUG}}"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "{{PHONE}}",
+        "contactType": "sales",
+        "email": "{{EMAIL}}",
+        "availableLanguage": ["English", "Chinese", "Spanish", "Arabic"]
+      },
+      "potentialAction": [
+        {
+          "@type": "OrderAction",
+          "name": "Request Architectural Sample Box",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://{{DOMAIN}}/#sample-kit",
+            "inLanguage": "en-US",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform",
+              "https://schema.org/WebMCP"
+            ]
+          }
+        },
+        {
+          "@type": "CommunicateAction",
+          "name": "Instant WhatsApp Technical Consultation",
+          "target": "https://wa.me/{{WHATSAPP_CLEAN}}?text=Technical%20Inquiry%20from%20Agent"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://{{DOMAIN}}/#website",
+      "url": "https://{{DOMAIN}}",
+      "name": "{{COMPANY_NAME}}",
+      "description": "{{META_DESCRIPTION}}",
+      "publisher": { "@id": "https://{{DOMAIN}}/#organization" },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://{{DOMAIN}}/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://{{DOMAIN}}/#lead-engineer",
+      "name": "{{AUTHOR_NAME}}",
+      "jobTitle": "{{AUTHOR_TITLE}}",
+      "worksFor": { "@id": "https://{{DOMAIN}}/#organization" },
+      "knowsAbout": [
+        "{{INDUSTRY_CODE_1}}",
+        "{{INDUSTRY_CODE_2}}",
+        "ASTM Testing Methods",
+        "B2B Global Logistics and Container Loading"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://{{DOMAIN}}/#technical-specification-dossier",
+      "headline": "{{TECH_ARTICLE_HEADLINE}}",
+      "description": "Comprehensive engineering dossier, ASTM/ISO testing matrices, and installation guidelines for architects, structural consultants, and facade engineers.",
+      "datePublished": "2026-01-15T08:00:00Z",
+      "dateModified": "{{ISO_DATE_MODIFIED}}",
+      "author": { "@id": "https://{{DOMAIN}}/#lead-engineer" },
+      "publisher": { "@id": "https://{{DOMAIN}}/#organization" },
+      "mainEntityOfPage": "https://{{DOMAIN}}",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Product",
+      "@id": "https://{{DOMAIN}}/#flagship-product",
+      "name": "{{FLAGSHIP_PRODUCT_NAME}}",
+      "description": "{{FLAGSHIP_PRODUCT_DESCRIPTION}}",
+      "brand": { "@id": "https://{{DOMAIN}}/#organization" },
+      "sku": "{{SKU_CODE}}",
+      "mpn": "{{MPN_CODE}}",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "{{LOW_PRICE}}",
+        "highPrice": "{{HIGH_PRICE}}",
+        "offerCount": 1000,
+        "availability": "https://schema.org/InStock",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "applicableCountry": "US",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 30,
+          "returnMethod": "https://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/FreeReturn"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": "0.00",
+            "currency": "USD"
+          },
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "US"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "handlingTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 1,
+              "maxValue": 3,
+              "unitCode": "d"
+            },
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": 3,
+              "maxValue": 7,
+              "unitCode": "d"
+            }
+          }
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://{{DOMAIN}}/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the certified material composition, thickness tolerance, and weight profile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our panels feature an ultra-thin thickness profile of 1.5–2.0 mm (1/16\" – 5/64\") with a strict precision tolerance of ±0.2 mm. Weighing approximately 1.5–1.8 kg/m² (0.31–0.37 lbs/sq ft), our products reduce dead load by over 85% compared to traditional 20 mm solid alternatives."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What international structural, fire rating, and safety certifications do your products hold?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All production lots are certified to ASTM C170 (compressive strength exceeding 128.5 MPa / 18,637 psi), ASTM C880 (flexural bending strength >14.2 MPa), and European CE EN 12057 standards. The material satisfies EN 13501-1 Class A2-s1, d0 non-combustibility ratings and qualifies for LEED v4.1 BPDO credit contributions under verified EPD and HPD documentation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you package and ship orders to prevent transit damage during ocean freight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Every order is packaged in fumigated solid wooden crates (IPPC ISPM 15 compliant) with high-density EPE foam corner protectors, waterproof polyethylene shrink wrapping, and steel strap banding. A standard 20GP ocean container comfortably loads up to 18 crates (approx. 4,000 m²), safely within standard 22–24 metric ton container gross weight regulations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is your sample dispatch policy, turnaround time, and cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We provide curated Trade Sample Kits containing physical material swatches, edge-cut cross sections, and certified TDS inspection certificates free of charge to qualified architects, general contractors, and distributors. Sample parcels are processed within 24 hours and delivered globally via DHL Express air courier within 3–5 business days."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What recommended adhesives and substrate preparation are required for installation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For interior dry walls, standard neutral silane-modified polymer (SMP) or modified polyurethane adhesives provide optimal bonding without chemical bleed-through. For exterior facade cladding or wet areas (bathrooms/swimming pools), two-component polyurethane or epoxy mortar meeting EN 12004 C2TE S2 standards ensures a 100% waterproof seal and permanent adhesion across -40°C to +90°C thermal cycles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can the material be applied onto curved columns, arches, or backlit surfaces?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our flexible veneer can achieve a tight cold bending radius of R ≥ 50 mm (2.0\") without heat treatment or micro-fissuring. For translucent backlit models, our proprietary glass fiber and unsaturated polymer resin backing delivers uniform light diffusion without dark shadows, hotspots, or zebra striping when illuminated with 3000K–6500K LED panels."
+          }
+        }
+      ]
+    }
+  ]
+}

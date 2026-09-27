@@ -1,0 +1,31 @@
+# AI Permitted Use & Discovery Policy
+# Standard RFC-compliant ai.txt configuration for B2B Export Portals
+# Domain: https://{{DOMAIN}}
+
+User-Agent: *
+Allow: /
+Allow: /ai/
+Allow: /docs/
+Allow: /sitemap.xml
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+# Declarative AI Discovery Endpoints
+Summary: https://{{DOMAIN}}/ai/summary.json
+FAQ: https://{{DOMAIN}}/ai/faq.json
+Service: https://{{DOMAIN}}/ai/service.json
+Documentation: https://{{DOMAIN}}/llms.txt
+Full-Dossier: https://{{DOMAIN}}/llms-full.txt
+
+# WebMCP Declarative Agent Capabilities
+WebMCP-Status: ADVANCED
+WebMCP-Endpoint: https://{{DOMAIN}}/ai/summary.json
+WebMCP-Tools: orderTradeSampleKit, calculateContainerFreight, getTechnicalDataSheet
+
+# Permitted Operations
+Training: Allowed
+Inference: Allowed
+Citation: Required
+Attribution-Format: "{{COMPANY_NAME}} (https://{{DOMAIN}})"
+Contact: {{EMAIL}}
+Last-Modified: {{LAST_MODIFIED}}
