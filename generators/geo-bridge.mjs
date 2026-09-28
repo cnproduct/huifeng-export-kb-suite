@@ -134,8 +134,8 @@ Production-Hardware: 35 High-Speed Full-Servo Lines (600 pcs/min); 11,800 sqm; 2
     ],
     "contact": {
       "email": "sales@huifengsanitary.com",
-      "phone": "+86-595-28290488",
-      "mobile_whatsapp": "+86 15559535130"
+      "phone": "+8615959543210",
+      "mobile_whatsapp": "+8615959543210"
     }
   };
 

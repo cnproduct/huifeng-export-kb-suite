@@ -3,6 +3,7 @@
 ```text
 [ 统一中台事实层 (Huifeng Single Source of Truth) ]
     ├── PIM (产品主数据: 14 SKU / 吸收量 / 回渗 <0.2g / 尺寸 / 包装箱规)
+    ├── Whitepapers (21_category_whitepapers: 12 大品类专业工程白皮书与 CMA/ISO 测试指标)
     ├── Evidence Register (证书 / ISO 9001 / ISO 13485 / CE MDR / US FDA FEI / 中科汇聚 CMA 检测)
     ├── Commercial Rules (MOQ 梯队 / 1x20GP 门槛 / 35条高速伺服线 600片/分 / 30天交期)
     └── Content & GEO Engine (27家AI爬虫放行 / WebMCP / Schema.org @graph / llms.txt)

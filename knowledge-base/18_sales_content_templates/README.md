@@ -27,7 +27,7 @@ Best regards,
 [Sales_Name]
 International Business Division
 Quanzhou Huifeng Sanitary Articles Co., Ltd.
-Website: https://www.huifengsanitary.com | Email: sales@huifengsanitary.com | WhatsApp: +86 15559535130
+Website: https://www.huifengsanitary.com | Email: sales@huifengsanitary.com | WhatsApp: +86 15959543210
 ```
 
 ### 模板 2: 针对跨境 DTC / 亚马逊新兴个护品牌创始人 (Amazon DTC Private Label Founder)
@@ -53,7 +53,7 @@ Cheers,
 
 [Sales_Name]
 OEM Brand Division | Quanzhou Huifeng Sanitary Articles Co., Ltd.
-Website: https://www.huifengsanitary.com | Mobile/WhatsApp: +86 15559535130
+Website: https://www.huifengsanitary.com | Mobile/WhatsApp: +86 15959543210
 ```
 
 ### 模板 3: 针对医院/养老康复机构耗材采购经理 (Institutional & Hospital Procurement Director)
