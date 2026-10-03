@@ -1,0 +1,988 @@
+[
+  {
+    "id": "wp-baby-diaper",
+    "category_slug": "baby-diapers-oem-manufacturer",
+    "sku_code": "HF-BD-TAPE-01",
+    "filter_group": "baby",
+    "title": "Baby Diapers (Tape Style) Libro Blanco de Ingeniería",
+    "subtitle": "Ultra-Thin Composite SAP Core Architecture & 3D Micro-Pearl Surface Fluid Mechanics",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 11948-1",
+      "ISO 13485:2016",
+      "GB/T 28004.1",
+      "GB 15979"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de Baby Diapers (Tape Style) Engineering Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "absorption_capacity": "400ml - 1100ml (Size NB to XXL)",
+      "absorption_speed": "< 3.0 seconds first intake",
+      "rewet_value": "< 0.15g (ISO 11948-1 test method)",
+      "microbial_purity": "Bacterial count < 20 CFU/g, zero pathogenic bacteria",
+      "breathability": "> 3,500 g/m²/24h microporous backsheet",
+      "container_40hq": "380,000 - 420,000 pcs (high-compression polybags)"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Topsheet (Contact)",
+        "spec": "3D Pearl Embossed Hot-Air Through Nonwoven",
+        "supplier": "Huifeng Miaoyuan / Fiberweb",
+        "function": "Instant liquid diversion into channels, minimizes skin contact area by 40%"
+      },
+      {
+        "layer": "Acquisition Distribution Layer (ADL)",
+        "spec": "Sub-layer High-Loft Airlaid Green/White Nonwoven",
+        "supplier": "Texbond / Jofo",
+        "function": "Rapid horizontal diffusion preventing localized pooling"
+      },
+      {
+        "layer": "Absorbent Core",
+        "spec": "7-Layer Composite Core (Sumitomo SAP + Virgin Fluff Pulp)",
+        "supplier": "Sumitomo Seika (Japan) / Georgia-Pacific (USA)",
+        "function": "Locks moisture into stable hydrogel; zero breakage after 500 mechanical shakes"
+      },
+      {
+        "layer": "Backsheet (Barrier)",
+        "spec": "Cloth-like Breathable PE Microporous Film",
+        "supplier": "Tredegar / Huifeng In-House",
+        "function": "Permeable to vapor (water molecules cannot pass; air circulates freely)"
+      },
+      {
+        "layer": "Fastening System",
+        "spec": "3M Refastenable S-Cut Magic Velcro Tapes + Frontal Loop",
+        "supplier": "3M / Avery Dennison",
+        "function": "Withstands >50 refastening cycles with curved non-scratch edges"
+      },
+      {
+        "layer": "Side Leak Barriers",
+        "spec": "Double Hydrophobic Nonwoven with Lycra Elastic Strands",
+        "supplier": "Invista Lycra",
+        "function": "35mm standing barriers conform to baby groin preventing side leakage"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "NB (Newborn)",
+        "weight": "20g ± 1g",
+        "dimensions": "360 x 280 mm",
+        "baby_weight": "< 4 kg",
+        "sap": "4.5g",
+        "absorption": "400 ml",
+        "pack": "60 pcs/bag"
+      },
+      {
+        "size": "S (Small)",
+        "weight": "24g ± 1g",
+        "dimensions": "390 x 300 mm",
+        "baby_weight": "3 - 7 kg",
+        "sap": "6.0g",
+        "absorption": "500 ml",
+        "pack": "54 pcs/bag"
+      },
+      {
+        "size": "M (Medium)",
+        "weight": "29g ± 1.5g",
+        "dimensions": "450 x 320 mm",
+        "baby_weight": "6 - 11 kg",
+        "sap": "8.0g",
+        "absorption": "650 ml",
+        "pack": "46 pcs/bag"
+      },
+      {
+        "size": "L (Large)",
+        "weight": "33g ± 1.5g",
+        "dimensions": "490 x 320 mm",
+        "baby_weight": "9 - 14 kg",
+        "sap": "10.0g",
+        "absorption": "800 ml",
+        "pack": "40 pcs/bag"
+      },
+      {
+        "size": "XL (Extra Large)",
+        "weight": "37g ± 2g",
+        "dimensions": "520 x 330 mm",
+        "baby_weight": "12 - 17 kg",
+        "sap": "11.5g",
+        "absorption": "950 ml",
+        "pack": "34 pcs/bag"
+      },
+      {
+        "size": "XXL (Super Large)",
+        "weight": "40g ± 2g",
+        "dimensions": "550 x 340 mm",
+        "baby_weight": "> 15 kg",
+        "sap": "13.0g",
+        "absorption": "1100 ml",
+        "pack": "28 pcs/bag"
+      }
+    ],
+    "lab_protocols": "Tested in partnership with Zhongke Huiju CMA-Accredited Laboratory (CMA-FJ-2019-HUICMA). 5kg weight applied for 2 minutes following saline discharge; fluorescent migration test under 254nm and 365nm UV is strictly zero. Cytotoxicity and skin irritation index = 0.00 (Dermatest 5-Star Certified).",
+    "container_logistics": "Packaged in high-density polyethylene printed polybags packed into 5-ply export corrugated cartons or compressed poly-bales. 1x40HQ container accommodates approx 1,600 cartons (~400,000 pcs) at 68 CBM total volume.",
+    "oem_options": "Custom topsheet embossing pattern, colored ADL options, 3-line hot-melt wetness indicator, OEM brand printing up to 8 colors, FSC-certified virgin fluff pulp branding, biodegradable packaging alternatives."
+  },
+  {
+    "id": "wp-baby-pullup",
+    "category_slug": "baby-pull-up-pants-wholesale",
+    "sku_code": "HF-BP-PULLUP-02",
+    "filter_group": "baby",
+    "title": "Baby Pull-Up Training Pants Libro Blanco de Ingeniería",
+    "subtitle": "360° Elastic Bubble Waistband Dynamics & Ultrasonic Seam Bonding Mechanics",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 11948-1",
+      "ISO 13485:2016",
+      "GB/T 28004.1"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de Baby Pull-Up Training Pants Engineering Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "absorption_capacity": "600ml - 1000ml",
+      "waistband_tension": "> 15 N tensile pull before tear",
+      "tear_away_seam": "Clean tear along ultrasonic line with < 8 N manual force",
+      "rewet_value": "< 0.18g under standard test load",
+      "elastic_recovery": "98.5% recovery after 3x elongation",
+      "container_40hq": "300,000 - 340,000 pcs"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Bubble Waistband",
+        "spec": "Ultrasonic Bonded Spandex Ribbed Nonwoven",
+        "supplier": "Invista Lycra / Huifeng Full-Servo",
+        "function": "360-degree anatomical contour adapting to toddler belly during eating and sleeping"
+      },
+      {
+        "layer": "Absorbent Core",
+        "spec": "Dual Composite Channel SAP Core",
+        "supplier": "Sumitomo / BASF",
+        "function": "Channel indentation guides liquid along longitudinal axis, preventing sagging"
+      },
+      {
+        "layer": "Tearable Side Seams",
+        "spec": "High-Frequency Ultrasonic Spot Weld",
+        "supplier": "Zuiko Servo Rotary Seamer",
+        "function": "Firm hold during wear; effortlessly splits for hygienic diaper changes"
+      },
+      {
+        "layer": "Disposal Tape",
+        "spec": "Self-Adhesive Polypropylene Film on Rear",
+        "supplier": "Henkel Medical Adhesive",
+        "function": "Enables neat rolling and hermetic sealing of used diaper"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "M (Medium)",
+        "weight": "28g ± 1g",
+        "dimensions": "460 x 390 mm",
+        "baby_weight": "6 - 11 kg",
+        "sap": "8.0g",
+        "absorption": "600 ml",
+        "pack": "44 pcs/bag"
+      },
+      {
+        "size": "L (Large)",
+        "weight": "32g ± 1.5g",
+        "dimensions": "490 x 400 mm",
+        "baby_weight": "9 - 14 kg",
+        "sap": "9.5g",
+        "absorption": "750 ml",
+        "pack": "38 pcs/bag"
+      },
+      {
+        "size": "XL (Extra Large)",
+        "weight": "36g ± 1.5g",
+        "dimensions": "520 x 410 mm",
+        "baby_weight": "12 - 17 kg",
+        "sap": "11.0g",
+        "absorption": "900 ml",
+        "pack": "32 pcs/bag"
+      },
+      {
+        "size": "XXL (Super Large)",
+        "weight": "40g ± 2g",
+        "dimensions": "550 x 420 mm",
+        "baby_weight": "> 15 kg",
+        "sap": "12.5g",
+        "absorption": "1000 ml",
+        "pack": "26 pcs/bag"
+      }
+    ],
+    "lab_protocols": "Tested on automated multi-axis tensile testing equipment. Seams undergo cyclic loading of 10N at 50 mm/min. Absorption validated with synthetic urine at 37°C. Total microbiological count verified < 20 CFU/g.",
+    "container_logistics": "Master cartons contain 8 printed polybags. 1x40HQ container loads ~1,450 cartons (~320,000 pcs) with vacuum-assist pre-packing.",
+    "oem_options": "Custom cartoon all-over backsheet prints, customized color front indicator cues, biodegradable topsheet variants, private label retail packs."
+  },
+  {
+    "id": "wp-bamboo-diaper",
+    "category_slug": "bamboo-diapers-biodegradable-wholesale",
+    "sku_code": "HF-ECO-BAMBOO-03",
+    "filter_group": "eco",
+    "title": "100% Bamboo Biodegradable Eco Diapers Technical Libro Blanco Técnico",
+    "subtitle": "Natural Bamboo Viscose Fluidics & Compostable PLA/PBAT Degradation Kinetics",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 14855",
+      "ASTM D6400",
+      "EN 13432",
+      "OEKO-TEX Standard 100"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de 100% Bamboo Biodegradable Eco Diapers Technical Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "biodegradability": "> 70% in 90 days (commercial composting)",
+      "skin_irritation": "0.00 Hypoallergenic Index (OEKO-TEX Class 1)",
+      "chlorine_status": "100% Totally Chlorine Free (TCF) Fluff Pulp",
+      "absorption_capacity": "500ml - 1000ml",
+      "rewet_value": "< 0.18g under 5kg load",
+      "container_40hq": "330,000 - 360,000 pcs"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Topsheet",
+        "spec": "100% Natural Bamboo Viscose Nonwoven",
+        "supplier": "EcoBamboo Certified / Huifeng",
+        "function": "Naturally antibacterial, thermal regulating, and silky soft for sensitive skin"
+      },
+      {
+        "layer": "Absorbent Core",
+        "spec": "TCF Virgin Fluff Pulp + Eco Bio-SAP Compound",
+        "supplier": "Weyerhaeuser FSC Fluff / BASF Bio-SAP",
+        "function": "High-bulk absorbency without petroleum-derived acrylic acid dominance"
+      },
+      {
+        "layer": "Backsheet Barrier",
+        "spec": "Biodegradable PLA + PBAT Breathable Film",
+        "supplier": "NatureWorks Ingeo PLA",
+        "function": "100% compostable waterproof barrier that breaks down into CO2 and water"
+      },
+      {
+        "layer": "Packaging Pouch",
+        "spec": "Kraft Paper / Oxo-Biodegradable D2W Polybag",
+        "supplier": "Certified Compostable Pack",
+        "function": "Plastic-free shelf presentation for zero-waste retail"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "S",
+        "weight": "25g",
+        "dimensions": "390 x 300 mm",
+        "baby_weight": "3 - 7 kg",
+        "absorption": "500 ml",
+        "pack": "36 pcs/bag"
+      },
+      {
+        "size": "M",
+        "weight": "30g",
+        "dimensions": "450 x 320 mm",
+        "baby_weight": "6 - 11 kg",
+        "absorption": "650 ml",
+        "pack": "32 pcs/bag"
+      },
+      {
+        "size": "L",
+        "weight": "35g",
+        "dimensions": "490 x 320 mm",
+        "baby_weight": "9 - 14 kg",
+        "absorption": "800 ml",
+        "pack": "28 pcs/bag"
+      },
+      {
+        "size": "XL",
+        "weight": "39g",
+        "dimensions": "520 x 330 mm",
+        "baby_weight": "12 - 17 kg",
+        "absorption": "950 ml",
+        "pack": "24 pcs/bag"
+      }
+    ],
+    "lab_protocols": "Compost degradation audited per ISO 14855 respirometric method. Heavy metals and halogen content tested per EN 13432. Dermatological hypoallergenic rating certified by SGS.",
+    "container_logistics": "Shipped in FSC-certified unbleached corrugated boxes. 1x40HQ loads ~1,400 cartons (~340,000 pcs).",
+    "oem_options": "Custom unbleached kraft packaging, plant-based ink branding, certification logo co-branding (FSC, OK Biobased, Vegan Society)."
+  },
+  {
+    "id": "wp-adult-diaper",
+    "category_slug": "adult-diapers-bulk-supplier",
+    "sku_code": "HF-AD-TAPE-01",
+    "filter_group": "adult",
+    "title": "Adult Incontinence Briefs (Tape Style) Libro Blanco de Ingeniería",
+    "subtitle": "High-Volume Dual SAP Absorbent Matrix & Ammonia Chemical Neutralization",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 11948-1 (Rothwell)",
+      "ISO 13485:2016",
+      "FDA 510(k) Class I",
+      "CE MDR"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de Adult Incontinence Briefs (Tape Style) Engineering Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "absorption_capacity": "1800ml - 3200ml (ISO 11948-1 Rothwell method)",
+      "odor_reduction": "> 95% reduction in free ammonia within 30 minutes",
+      "rewet_value": "< 0.20g under 5kg mechanical plate pressure",
+      "side_leakage": "Zero leakage under 45-degree lateral body rotation",
+      "tape_refastening": "> 20 peel/reseal cycles on reinforced frontal landing zone",
+      "container_40hq": "90,000 - 110,000 pcs (high-bulk compression)"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Surface Contact",
+        "spec": "Hypoallergenic Hydrophilic Spunbond Nonwoven",
+        "supplier": "Jofo Nonwoven",
+        "function": "Tough yet velvety nonwoven preventing bedsores and skin abrasion"
+      },
+      {
+        "layer": "Primary Core",
+        "spec": "Rapid-Intake SAP Fluff Matrix",
+        "supplier": "Sumitomo SAP / GP Fluff",
+        "function": "Instantly absorbs sudden high-volume urination gushes"
+      },
+      {
+        "layer": "Secondary Core",
+        "spec": "High-Density Retention SAP Core",
+        "supplier": "BASF HySorb SAP",
+        "function": "Locks liquid deep under pressure, stopping fluid backflow when patient sits"
+      },
+      {
+        "layer": "Odor Lock",
+        "spec": "Antimicrobial & Zinc-Infused Polymer Blend",
+        "supplier": "Huifeng Proprietary Formula",
+        "function": "Neutralizes urea-splitting bacteria, preventing ammonia fumes"
+      },
+      {
+        "layer": "Fasteners",
+        "spec": "Dual Refastenable Wide Polypropylene Tapes",
+        "supplier": "3M Fastening",
+        "function": "Secures heavy load without detachment during bed rotation"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "M (Medium)",
+        "weight": "95g ± 5g",
+        "dimensions": "800 x 650 mm",
+        "waist": "70 - 120 cm",
+        "absorption": "2000 ml",
+        "pack": "10 pcs/bag"
+      },
+      {
+        "size": "L (Large)",
+        "weight": "110g ± 5g",
+        "dimensions": "900 x 750 mm",
+        "waist": "90 - 140 cm",
+        "absorption": "2600 ml",
+        "pack": "10 pcs/bag"
+      },
+      {
+        "size": "XL (Extra Large)",
+        "weight": "125g ± 5g",
+        "dimensions": "1000 x 820 mm",
+        "waist": "110 - 160 cm",
+        "absorption": "3200 ml",
+        "pack": "10 pcs/bag"
+      }
+    ],
+    "lab_protocols": "Rothwell full immersion absorption measured according to ISO 11948-1. Ammonia detection performed via Dräger tube gas spectrometry before and after 60 min. CE Class I Medical Device audit compliant.",
+    "container_logistics": "Vacuum-packed into 10-count medical polybags, 8-10 bags per master carton. 1x40HQ loads ~95,000 pcs.",
+    "oem_options": "Custom wetness indicator lines, hospital name printed frontal tape, breathable cloth-like or economical PE backsheet options."
+  },
+  {
+    "id": "wp-adult-pullup",
+    "category_slug": "adult-pull-up-pants-wholesale",
+    "sku_code": "HF-AP-PULLUP-02",
+    "filter_group": "adult",
+    "title": "Adult Incontinence Pull-Up Underwear Technical Libro Blanco Técnico",
+    "subtitle": "Anatomical Elastic Contour & Ultra-Discreet Mobile Incontinence Management",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 11948-1",
+      "ISO 13485:2016",
+      "CE Class I Medical"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de Adult Incontinence Pull-Up Underwear Technical Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "absorption_capacity": "1200ml - 1800ml",
+      "waist_extension": "Stretchable up to 160 cm without elastic rupture (>25N)",
+      "profile_thickness": "Less than 4.5mm compressed thickness",
+      "rewet_value": "< 0.20g",
+      "sound_damping": "< 25 dB acoustic rustle test during walking",
+      "container_40hq": "120,000 - 145,000 pcs"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Waistband",
+        "spec": "360° Ultrasonic Welded Cotton-Soft Spandex",
+        "supplier": "Invista Lycra",
+        "function": "Pulls on and off like regular cotton underwear; tearable sides for disposal"
+      },
+      {
+        "layer": "Slimline Core",
+        "spec": "Channel-Embossed High-Ratio SAP Composite",
+        "supplier": "Sumitomo / Nippon Shokubai",
+        "function": "Evenly spreads fluid without localized swelling or sagging"
+      },
+      {
+        "layer": "Outer Cover",
+        "spec": "Micro-Denier Nonwoven Breathable Textile",
+        "supplier": "Tredegar PE + Spunbond",
+        "function": "Acoustically silent during walking; cloth-like tactile feel"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "M",
+        "dimensions": "700 x 600 mm",
+        "waist": "60 - 100 cm",
+        "absorption": "1200 ml",
+        "pack": "10 pcs/bag"
+      },
+      {
+        "size": "L",
+        "dimensions": "800 x 700 mm",
+        "waist": "85 - 130 cm",
+        "absorption": "1500 ml",
+        "pack": "10 pcs/bag"
+      },
+      {
+        "size": "XL",
+        "dimensions": "900 x 800 mm",
+        "waist": "110 - 160 cm",
+        "absorption": "1800 ml",
+        "pack": "10 pcs/bag"
+      }
+    ],
+    "lab_protocols": "Acoustic emission decibel testing in soundproof chamber. Rewet measured under 5kg load following 3 consecutive 200ml saline voids.",
+    "container_logistics": "10 pcs/polybag, 8 bags/carton. 1x40HQ loads ~130,000 pcs (~1,625 cartons).",
+    "oem_options": "Gender-tailored core placement (front-focused for men, center-focused for women), private label printed packaging, colored waistband threads."
+  },
+  {
+    "id": "wp-nursing-underpad",
+    "category_slug": "nursing-underpads-disposable-wholesale",
+    "sku_code": "HF-UP-MED-01",
+    "filter_group": "medical",
+    "title": "Medical Disposable Nursing Underpads Libro Blanco de Ingeniería",
+    "subtitle": "Diamond-Embossed Capillary Diffusion & Polyethylene Impervious Barrier Mechanics",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 13485:2016",
+      "CE MDR Class I",
+      "FDA Registered",
+      "GB 15979"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de Medical Disposable Nursing Underpads Engineering Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "absorption_capacity": "600ml - 2200ml depending on dimension",
+      "bottom_leakage": "0.00 ml liquid penetration under 10 kPa hydrostatic pressure",
+      "bursting_strength": "> 120 kPa wet surface tensile strength",
+      "rewet_value": "< 0.20g",
+      "perimeter_seal": "15mm hermetic thermal bonded safety border on all 4 edges",
+      "container_40hq": "150,000 - 220,000 pcs (varying by 60x60, 60x90 specs)"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Top Layer",
+        "spec": "Medical-Grade Spunbond Nonwoven Fabric",
+        "supplier": "Certified Medical Nonwoven",
+        "function": "Tear-resistant when patient shifts weight; gentle on skin"
+      },
+      {
+        "layer": "Embossing",
+        "spec": "Deep Diamond Capillary Grid Channels",
+        "supplier": "Precision Steel Roller",
+        "function": "Accelerates 360-degree liquid dispersion across full pad area"
+      },
+      {
+        "layer": "Core",
+        "spec": "FSC Fluff Pulp + High Gel-Strength SAP",
+        "supplier": "Georgia-Pacific + Sumitomo",
+        "function": "Traps fluid securely and prevents wet pulp displacement"
+      },
+      {
+        "layer": "Backsheet",
+        "spec": "Virgin Waterproof PE Film (Anti-Skid)",
+        "supplier": "Huifeng Film Extrusion",
+        "function": "Prevents slipping on bed sheets and blocks 100% moisture penetration"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "45 x 60 cm",
+        "weight": "35g ± 3g",
+        "sap": "3.0g",
+        "absorption": "600 ml",
+        "pack": "20 pcs/bag"
+      },
+      {
+        "size": "60 x 60 cm",
+        "weight": "50g ± 3g",
+        "sap": "5.0g",
+        "absorption": "1000 ml",
+        "pack": "15 pcs/bag"
+      },
+      {
+        "size": "60 x 90 cm (Standard Hospital)",
+        "weight": "75g ± 5g",
+        "sap": "8.0g",
+        "absorption": "1500 ml",
+        "pack": "10 pcs/bag"
+      },
+      {
+        "size": "80 x 90 cm (Heavy ICU)",
+        "weight": "95g ± 5g",
+        "sap": "12.0g",
+        "absorption": "2000 ml",
+        "pack": "10 pcs/bag"
+      },
+      {
+        "size": "60 x 150 cm (With Tuck-In Wings)",
+        "weight": "110g ± 5g",
+        "sap": "10.0g",
+        "absorption": "1800 ml",
+        "pack": "10 pcs/bag"
+      }
+    ],
+    "lab_protocols": "Hydrostatic head testing per ISO 811. Tensile break test per ASTM D5034. Microbiological compliance verified per GB 15979 sterile and non-sterile grades.",
+    "container_logistics": "10-20 pcs per bag, 10-15 bags per master carton. 1x40HQ loads ~180,000 pcs (60x90cm).",
+    "oem_options": "Custom pad dimensions, tuck-in side wings for mattress anchoring, scented or unscented variants, hospital brand outer carton printing."
+  },
+  {
+    "id": "wp-sanitary-napkin",
+    "category_slug": "sanitary-napkins-oem-factory",
+    "sku_code": "HF-SN-245-01 / 290-02 / 350-03",
+    "filter_group": "femcare",
+    "title": "Feminine Sanitary Napkins Libro Blanco de Ingeniería",
+    "subtitle": "0.8mm Ultra-Thin Composite Core, Anion Chip Dynamics & Rewet Suppression",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 11948-1",
+      "ISO 13485:2016",
+      "EN ISO 12625-8:2010",
+      "GB/T 8939"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de Feminine Sanitary Napkins Engineering Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "absorption_capacity": "120ml - 250ml saline test",
+      "rewet_value": "< 0.15g (exceeding GB/T 8939 national benchmark)",
+      "core_thickness": "0.8 mm ultra-thin composite paper core",
+      "fluorescent_migration": "Zero detectable (CMA Laboratory 254nm/365nm UV testing)",
+      "microbial_count": "< 20 CFU/g (hospital cleanroom grade)",
+      "container_40hq": "864,000 - 1,200,000 pcs (depending on 245/290/350mm)"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Topsheet Contact",
+        "spec": "Silk-Soft Hot-Air Through or 100% Organic Cotton",
+        "supplier": "Huifeng Cleanroom / Certified Organic",
+        "function": "Zero friction against sensitive skin, micro-perforations accelerate fluid drop"
+      },
+      {
+        "layer": "Functional Core Chip",
+        "spec": "Negative Ion (Anion) / Herbal / Bamboo Charcoal",
+        "supplier": "Huifeng Functional Bio-Tech",
+        "function": "Emits negative ions, suppresses anaerobic odor-causing bacteria"
+      },
+      {
+        "layer": "Absorbent Core",
+        "spec": "0.8mm Airlaid Superabsorbent Paper Matrix",
+        "supplier": "Sumitomo SAP Infused Paper",
+        "function": "Locks blood and fluid into stable gel without bulk or lump formation"
+      },
+      {
+        "layer": "Backsheet",
+        "spec": "Microporous Breathable PE Composite Film",
+        "supplier": "Huifeng Film Extrusion",
+        "function": "Releases hot moisture vapors in 3 seconds while blocking liquid droplets"
+      },
+      {
+        "layer": "Adhesive & Wrapper",
+        "spec": "Food-Grade Henkel Adhesive + 360° Hermetic Pouch",
+        "supplier": "Henkel Adhesives",
+        "function": "Leaves zero sticky residue on underwear; prevents airborne contamination"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "155mm (Pantyliner)",
+        "weight": "2.2g",
+        "absorption": "40 ml",
+        "rewet": "< 0.05g",
+        "pack": "20 or 30 pcs/box"
+      },
+      {
+        "size": "245mm (Day Regular)",
+        "weight": "7.5g",
+        "absorption": "120 ml",
+        "rewet": "< 0.15g",
+        "pack": "10 pcs/polybag"
+      },
+      {
+        "size": "290mm (Heavy Day / Night)",
+        "weight": "9.8g",
+        "absorption": "180 ml",
+        "rewet": "< 0.18g",
+        "pack": "8 pcs/polybag"
+      },
+      {
+        "size": "350mm (Overnight Extra)",
+        "weight": "12.5g",
+        "absorption": "250 ml",
+        "rewet": "< 0.20g",
+        "pack": "6 pcs/polybag"
+      },
+      {
+        "size": "410mm (Super Long Night)",
+        "weight": "15.0g",
+        "absorption": "320 ml",
+        "rewet": "< 0.20g",
+        "pack": "4 pcs/polybag"
+      }
+    ],
+    "lab_protocols": "Tested in partnership with Zhongke Huiju CMA Laboratory. Rewet tested using 5kg standard weight after 3 minutes. Zero fluorescent migration confirmed across raw materials and final sealed pouches.",
+    "container_logistics": "Packed 48 bags per export master carton (0.038 - 0.045 CBM). 1x40HQ loads ~1,800 cartons (~864,000 pcs for 245mm).",
+    "oem_options": "Custom wrapper foil designs, aluminum zip-lock pouches, custom chip formulations (moxa, menthol, anion), organic cotton certifications."
+  },
+  {
+    "id": "wp-period-panty",
+    "category_slug": "period-panties-menstrual-underwear-wholesale",
+    "sku_code": "HF-PP-01",
+    "filter_group": "femcare",
+    "title": "360° Disposable Period Panties (Menstrual Pants) Libro Blanco Técnico",
+    "subtitle": "All-Around Leakage Barrier Mechanics & Ergonomic Bubble Waistband Dynamics",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 11948-1",
+      "ISO 13485:2016",
+      "GB/T 8939"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de 360° Disposable Period Panties (Menstrual Pants) Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "absorption_capacity": "350ml - 450ml (3-4x standard night pad)",
+      "leak_prevention": "360° all-around protection during roll and posture shifts",
+      "waistband_stretch": "> 15 N elastic tensile strength without deformation",
+      "rewet_value": "< 0.10g under 5kg load",
+      "breathability": "> 4,000 g/m²/24h",
+      "container_40hq": "140,000 - 160,000 pcs"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Bubble Waistband",
+        "spec": "Ultrasonic Multipoint Welded Elastic Nonwoven",
+        "supplier": "Invista Lycra Strands",
+        "function": "Adapts smoothly from 60cm to 120cm waistlines without pinching"
+      },
+      {
+        "layer": "Extended Core",
+        "spec": "Full Front-to-Back Contoured SAP Airlaid Matrix",
+        "supplier": "Sumitomo High-Speed SAP",
+        "function": "Locks sudden heavy nighttime discharges in seconds"
+      },
+      {
+        "layer": "Double Leak Guards",
+        "spec": "Three-Dimensional Hydrophobic Flaps with Dual Elastic",
+        "supplier": "Fiberweb Medical Nonwoven",
+        "function": "Stops liquid from creeping along the thighs in side-sleep positions"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "M",
+        "hip": "60 - 95 cm",
+        "absorption": "350 ml",
+        "pack": "2 or 3 pcs/pouch"
+      },
+      {
+        "size": "L",
+        "hip": "85 - 110 cm",
+        "absorption": "400 ml",
+        "pack": "2 or 3 pcs/pouch"
+      },
+      {
+        "size": "XL",
+        "hip": "100 - 130 cm",
+        "absorption": "450 ml",
+        "pack": "2 or 3 pcs/pouch"
+      }
+    ],
+    "lab_protocols": "Dynamic fluid intake tested with artificial blood formulation under continuous movement simulation. Zero side overflow confirmed at 45° incline angles.",
+    "container_logistics": "Individually wrapped or 2-3 pcs/pouch, 36 pouches per master carton (0.048 CBM). 1x40HQ loads ~1,400 cartons (~151,200 pcs).",
+    "oem_options": "Custom printed waistband patterns, cooling menthol chip infusions, eco-friendly bamboo fiber surface options, luxury retail gift packaging."
+  },
+  {
+    "id": "wp-snow-lotus-patch",
+    "category_slug": "snow-lotus-herbal-care-patch-manufacturer",
+    "sku_code": "HF-SL-155-04",
+    "filter_group": "specialty",
+    "title": "Saussurea Involucrata Herbal Gynecological Care Patch Libro Blanco Técnico",
+    "subtitle": "Transdermal Botanical Extraction, Perineal Absorption & Gynecological Conditioning",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 13485:2016",
+      "ISO 9001:2015",
+      "CMA Lab Verified",
+      "GB 15979"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de Saussurea Involucrata Herbal Gynecological Care Patch Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "active_botanical": "Freeze-dried high-potency Saussurea Involucrata extract",
+      "skin_irritation": "0.00 Primary Dermal Irritation Index (Zero Irritation)",
+      "microbial_purity": "Bacterial count < 20 CFU/g, zero mold, zero pathogens",
+      "hermetic_seal": "Medical-grade aluminum foil barrier preventing volatile loss",
+      "temperature_stability": "Active compounds stable from -10°C to 45°C",
+      "container_40hq": "1,140,000 patches (1,900 master cartons)"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Contact Surface",
+        "spec": "100% Pure Virgin Cotton Non-Allergenic Sheet",
+        "supplier": "Certified Organic Cotton",
+        "function": "Zero synthetic resin friction against delicate vulvar tissues"
+      },
+      {
+        "layer": "Herbal Matrix Chip",
+        "spec": "Vacuum Freeze-Dried Saussurea Extract + Moxa/Angelica",
+        "supplier": "Huifeng Botanical Extraction Lab",
+        "function": "Gradually releases herbal vapors stimulated by human body temperature (36.5°C)"
+      },
+      {
+        "layer": "Barrier Film",
+        "spec": "Microporous Medical Grade PE Breathable Film",
+        "supplier": "Huifeng Film Division",
+        "function": "Allows botanical vapor diffusion while preventing fluid leakage"
+      },
+      {
+        "layer": "Hermetic Pouch",
+        "spec": "Triple-Layer Aluminum Foil Vacuum Barrier Wrapper",
+        "supplier": "Medical Foil Packing",
+        "function": "Prevents volatilization of active flavonoids over a 3-year shelf life"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "155mm Classic Box",
+        "spec": "155 x 65 mm",
+        "patches_per_box": "10 or 30 patches",
+        "shelf_life": "36 months",
+        "usage": "1 patch daily for 6-8 hours"
+      }
+    ],
+    "lab_protocols": "Tested at Zhongke Huiju CMA Laboratory. ICP-MS spectrometry verifies arsenic, lead, mercury, and cadmium levels below detection thresholds. Skin irritation index = 0.00.",
+    "container_logistics": "10 patches/box, 60 boxes/master carton (0.035 CBM). 1x40HQ container loads ~1,900 cartons (1,140,000 patches).",
+    "oem_options": "Custom botanical chip formulations (Warming Moxa, Aloe Soothing, Cordyceps), custom aluminum foil printing, luxury boutique display packaging."
+  },
+  {
+    "id": "wp-maternity-pad",
+    "category_slug": "maternity-pads-postpartum-supplier",
+    "sku_code": "HF-MP-PAD-01",
+    "filter_group": "medical",
+    "title": "Obstetric Postpartum Maternity Pads Technical Libro Blanco Técnico",
+    "subtitle": "High-Lochia Flow Capacity Architecture & Non-Adherent Episiotomy Incision Protection",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 13485:2016",
+      "CE MDR Class I",
+      "GB 15979 Hospital Grade"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de Obstetric Postpartum Maternity Pads Technical Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "absorption_capacity": "300ml - 500ml heavy lochia fluid",
+      "fluid_intake_speed": "< 2.0 seconds for 50ml saline gush",
+      "wound_protection": "Hydro-entangled topsheet prevents fiber adherence to sutures",
+      "sterility_options": "Ethylene Oxide (EO) Sterilized or High-Hygiene Grade",
+      "rewet_value": "< 0.18g",
+      "container_40hq": "450,000 - 486,000 pcs"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Contact Layer",
+        "spec": "Extra-Fluffy Nonwoven Non-Adherent Topsheet",
+        "supplier": "Medical Soft Nonwoven",
+        "function": "Cushions tender perineal area; will not pull on surgical stitches"
+      },
+      {
+        "layer": "Absorbent Core",
+        "spec": "Heavy Airlaid Pulp Matrix + Sumitomo Medical SAP",
+        "supplier": "GP Fluff Pulp + Sumitomo",
+        "function": "Provides shock-absorbent cushioning and rapid volumetric fluid trapping"
+      },
+      {
+        "layer": "Wide Wing Strip",
+        "spec": "Broad Adhesive Anchoring Backing",
+        "supplier": "Henkel Medical Adhesive",
+        "function": "Keeps pad securely positioned in hospital mesh postpartum underwear"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "M (380 x 150 mm)",
+        "absorption": "350 ml",
+        "pack": "10 pcs/bag",
+        "use": "Moderate lochia (Day 4-14)"
+      },
+      {
+        "size": "L (450 x 180 mm)",
+        "absorption": "450 ml",
+        "pack": "10 pcs/bag",
+        "use": "Heavy lochia (Day 1-3)"
+      },
+      {
+        "size": "XL (500 x 200 mm)",
+        "absorption": "550 ml",
+        "pack": "8 pcs/bag",
+        "use": "Immediate post-delivery & overnight"
+      }
+    ],
+    "lab_protocols": "Tested with simulated lochia solutions. Sterile batches undergo EO residual gas degassing, verified below 10 ug/g per ISO 11135.",
+    "container_logistics": "10 pcs/bag, 36 bags/carton (0.050 CBM). 1x40HQ container loads ~1,350 cartons (~486,000 pcs).",
+    "oem_options": "Hospital brand custom packaging, weighable lochia tracking print lines, inclusion in maternity delivery ward kits."
+  },
+  {
+    "id": "wp-baby-wipes",
+    "category_slug": "wet-wipes-baby-wetwipes-wholesale",
+    "sku_code": "HF-WW-BABY-01",
+    "filter_group": "wipes",
+    "title": "EDI 7-Stage Purified Water Baby Wet Wipes Technical Libro Blanco Técnico",
+    "subtitle": "Spunlace Jacquard Micro-Textures & Weakly Acidic Hypoallergenic Formulations",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 22716 (GMP Cosmetic)",
+      "ISO 13485:2016",
+      "FDA Voluntary Cosmetic Reg",
+      "GB/T 27728"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de EDI 7-Stage Purified Water Baby Wet Wipes Technical Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "water_purity": "99.9% EDI 7-stage purified water (Conductivity < 1.0 uS/cm)",
+      "ph_balance": "Weakly acidic pH 5.5 ± 0.3 matching infant acid mantle",
+      "chemical_safety": "0% Alcohol, 0% Parabens, 0% Optical Brighteners, 0% Formaldehyde",
+      "nonwoven_weight": "55 gsm - 65 gsm high-density 3D pearl spunlace",
+      "pack_hermetic_seal": "Double-barrier (resealable peel sticker + rigid click flip-top cap)",
+      "container_40hq": "50,400 packs (80 sheets/pack, 24 packs/carton)"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Textile Sheet",
+        "spec": "Cross-Lapped Spunlace Viscose/Polyester Blend",
+        "supplier": "Certified Spunlace Nonwoven",
+        "function": "3D pearl jacquard pattern physically traps semi-solid feces with one pass"
+      },
+      {
+        "layer": "Water Formulation",
+        "spec": "7-Stage EDI Reverse Osmosis Water",
+        "supplier": "Huifeng Ultra-Pure Water Plant",
+        "function": "Pure H2O free from dissolved minerals, heavy metals, and chlorine"
+      },
+      {
+        "layer": "Skin Nutrients",
+        "spec": "Organic Chamomile Extract, Vitamin E, Glycerin",
+        "supplier": "Food-Grade Botanical Extracts",
+        "function": "Provides calming skin hydration and prevents diaper rash redness"
+      },
+      {
+        "layer": "Dispensing Cap",
+        "spec": "Continuous Pop-Up Moisture-Lock Flip Cap",
+        "supplier": "Molded PP Sealed Cap",
+        "function": "One-hand pull dispenses a single sheet at a time without chaining"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "80 Sheets Flip-Top",
+        "sheet_dim": "150 x 200 mm",
+        "weight": "55 gsm",
+        "pack": "80 sheets/pack",
+        "carton": "24 packs/carton"
+      },
+      {
+        "size": "20 Sheets Travel Pack",
+        "sheet_dim": "150 x 180 mm",
+        "weight": "50 gsm",
+        "pack": "20 sheets/pouch",
+        "carton": "96 packs/carton"
+      },
+      {
+        "size": "100 Sheets Extra-Large",
+        "sheet_dim": "180 x 200 mm",
+        "weight": "60 gsm",
+        "pack": "100 sheets/pack",
+        "carton": "18 packs/carton"
+      }
+    ],
+    "lab_protocols": "Water conductivity monitored in real-time (< 1.0 uS/cm). Challenge testing for preservative efficacy complies with USP 51 / ISO 11930. Dermatest clinical 5-star rating.",
+    "container_logistics": "24 packs/carton (0.032 CBM). 1x40HQ loads ~2,100 cartons (~50,400 packs).",
+    "oem_options": "Custom embossed logo on wipes, biodegradable 100% bamboo spunlace, custom scents (unscented, aloe, coconut), private label lid branding."
+  },
+  {
+    "id": "wp-pet-diaper",
+    "category_slug": "pet-diapers-training-pads-manufacturer",
+    "sku_code": "HF-PET-PAD-01",
+    "filter_group": "pet",
+    "title": "Pet Hygiene Diapers & Puppy Training Pee Pads Technical Libro Blanco Técnico",
+    "subtitle": "Fast Polymer Gelation Kinetics & Attractant Pheromone Dispersion Matrix",
+    "version": "v2026.1",
+    "iso_standards": [
+      "ISO 9001:2015",
+      "GB 15979",
+      "ASTM Incontinence Standards"
+    ],
+    "abstract": "Este documento técnico detalla la arquitectura de diseño, física de polímeros y normas de fabricación de Pet Hygiene Diapers & Puppy Training Pee Pads Technical Whitepaper en Quanzhou Huifeng Sanitary Articles Co., Ltd., con cumplimiento estricto de estándares ISO 13485, CE MDR y pruebas de laboratorio CMA.",
+    "key_metrics": {
+      "gelation_speed": "< 15 seconds fast polymer conversion to dry gel",
+      "absorption_capacity": "800ml - 1600ml (holds up to 6 cups of liquid)",
+      "paw_tracking": "Zero wet paw prints (quick-dry surface technology)",
+      "odor_control": "> 90% odor neutralizer with optional activated carbon",
+      "floor_adhesion": "Optional 4-corner adhesive sticky tabs for tile/wood floors",
+      "container_40hq": "260,000 pads (60x60cm, 1,300 cartons)"
+    },
+    "material_anatomy": [
+      {
+        "layer": "Surface",
+        "spec": "Scratch-Resistant Diamond Embossed Spunbond",
+        "supplier": "High-Strength Nonwoven",
+        "function": "Resists claw digging and prevents shredded cotton fluff"
+      },
+      {
+        "layer": "Attractant Layer",
+        "spec": "Bio-Enzymatic Puppy Attractant Pheromone",
+        "supplier": "Pet Behavioral Safe Formula",
+        "function": "Guides puppies naturally to urinate within the pad boundary"
+      },
+      {
+        "layer": "Superabsorbent Core",
+        "spec": "High Gel-Strength Sumitomo/BASF SAP Blend",
+        "supplier": "Sumitomo SAP",
+        "function": "Solidifies pet urine rapidly, preventing puddle spreading"
+      },
+      {
+        "layer": "Leak-Proof Base",
+        "spec": "Heavy-Duty Tear-Proof PE Film Barrier",
+        "supplier": "Huifeng Film Division",
+        "function": "Protects carpets, hardwood floors, and pet crates from seepage"
+      }
+    ],
+    "size_matrix": [
+      {
+        "size": "S (45 x 33 cm)",
+        "absorption": "400 ml",
+        "pack": "100 pcs/bag",
+        "target": "Cats & toy dog breeds"
+      },
+      {
+        "size": "M (45 x 60 cm)",
+        "absorption": "800 ml",
+        "pack": "50 pcs/bag",
+        "target": "Puppies & small dogs"
+      },
+      {
+        "size": "L (60 x 60 cm)",
+        "absorption": "1200 ml",
+        "pack": "40 pcs/bag",
+        "target": "Medium dog breeds"
+      },
+      {
+        "size": "XL (60 x 90 cm)",
+        "absorption": "1600 ml",
+        "pack": "30 pcs/bag",
+        "target": "Large dogs & multi-pet homes"
+      }
+    ],
+    "lab_protocols": "Liquid absorption tested with synthetic dog urine formulation at 38°C. Anti-scratch resistance evaluated with mechanical scratching cycle test.",
+    "container_logistics": "4 bags/carton (0.052 CBM). 1x40HQ container loads ~1,300 cartons (~260,000 pads).",
+    "oem_options": "Activated charcoal black pads for superior odor absorption, grass green scented options, branded printed backsheet, customized pet store retail packaging."
+  }
+]

@@ -1,0 +1,872 @@
+{
+  "company_info": {
+    "name_en": "Quanzhou Huifeng Sanitary Articles Co., Ltd.",
+    "short_name": "Huifeng Sanitary",
+    "logo_text": "HUIFENG SANITARY",
+    "tagline": "Fabricante Líder OEM/ODM de Pañales para Bebés, Adultos y Toallas Sanitarias",
+    "domain": "huifengsanitary.com",
+    "canonical_base": "https://www.huifengsanitary.com",
+    "address": "No. 2 Jinshi Road, Shuangyang Street, Luojiang District, Quanzhou City, Fujian Province, China",
+    "city": "Quanzhou",
+    "province": "Fujian",
+    "country": "China",
+    "postal_code": "362012",
+    "port": "Puerto de Xiamen / Puerto de Quanzhou, Fujian, China",
+    "established_year": "2004",
+    "phone": "+8615959543210",
+    "mobile": "+8615959543210",
+    "email": "sales@huifengsanitary.com",
+    "whatsapp": "8615959543210",
+    "wechat": "+8615959543210",
+    "factory_area": "11.800 m²",
+    "cleanroom_level": "Taller de Sala Limpia Clase 100.000 ISO 8",
+    "production_lines": "35 Líneas Automatizadas Servomotorizadas de Alta Velocidad (600 uds/min)",
+    "annual_capacity": "1.500 Millones de Unidades / Año",
+    "rd_staff": "294 Empleados Totales, 177 Operadores de Línea, 21 Inspectores de Calidad QA/QC, Laboratorios de I+D",
+    "geo_region": "ES, MX, CO, CL, AR",
+    "geo_placename": "Quanzhou, Fujian, China",
+    "geo_position": "24.9754;118.5741",
+    "icbm": "24.9754, 118.5741",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/company/huifeng-sanitary",
+      "facebook": "https://www.facebook.com/huifengsanitary",
+      "youtube": "https://www.youtube.com/@huifengsanitary",
+      "instagram": "https://www.instagram.com/huifengsanitary"
+    },
+    "testing_lab": "Zhongke Huiju (Fujian) Testing Technology Co., Ltd. (Laboratorio Acreditado CMA)",
+    "alibaba_ranking": "#3 Más Vendido en Categoría de Higiene Femenina en Alibaba (1,1M+ transacciones verificadas, 4.9/5.0 valoración)"
+  },
+  "certifications": [
+    {
+      "name": "Acreditación de Laboratorio CMA (Zhongke Huiju)",
+      "org": "Administración de Regulación del Mercado de Fujian",
+      "scope": "Calificación completa de ensayos para nuevas normas nacionales de higiene y absorción",
+      "number": "CMA-FJ-2019-HUICMA"
+    },
+    {
+      "name": "ISO 9001:2015",
+      "org": "SGS",
+      "scope": "Sistema de Gestión de Calidad para Fabricación Higiénica Desechable",
+      "number": "CN21/10982"
+    },
+    {
+      "name": "ISO 13485:2016",
+      "org": "TÜV SÜD",
+      "scope": "Gestión de Calidad de Dispositivos Médicos (Empapadores y Cuidado de Adultos)",
+      "number": "Q5 089234 0012"
+    },
+    {
+      "name": "CE MDR 2017/745",
+      "org": "Conformidad con la Unión Europea",
+      "scope": "Dispositivos Médicos Clase I y Apósitos Desechables para la Incontinencia",
+      "number": "CE-EU-2024-884"
+    },
+    {
+      "name": "Registro de Instalaciones FDA de EE.UU.",
+      "org": "U.S. FDA",
+      "scope": "Establecimiento de Fabricación Extranjera para Incontinencia e Higiene",
+      "number": "FEI 3012984561"
+    },
+    {
+      "name": "OEKO-TEX Standard 100 (Clase 1)",
+      "org": "Asociación OEKO-TEX",
+      "scope": "Probado contra sustancias nocivas; certificado seguro para contacto con piel de bebé",
+      "number": "SH025 189201"
+    },
+    {
+      "name": "Cadena de Custodia FSC (FSC-C149802)",
+      "org": "Forest Stewardship Council",
+      "scope": "100% Pulpa de Celulosa Virgen Responsable y Sostenible",
+      "number": "FSC-C149802"
+    },
+    {
+      "name": "BRCGS Consumer Products",
+      "org": "British Retail Consortium",
+      "scope": "Estándar Global para Productos de Cuidado Personal e Higiene (Grado AA)",
+      "number": "BRC-CP-2025-09"
+    },
+    {
+      "name": "Dermatest Hipoalergénico 5 Estrellas",
+      "org": "Dermatest Alemania",
+      "scope": "Ensayo clínico dermatológico con cero irritación dérmica",
+      "number": "DT-GER-5STAR-88"
+    }
+  ],
+  "raw_materials": [
+    {
+      "category": "Polímero Superabsorbente (SAP)",
+      "partners": "Sumitomo Seika (Japón), BASF (Alemania), Nippon Shokubai",
+      "feature": "Tasa de absorción ultrarrápida (< 30s), alta capacidad salina (≥ 60g/g), cero retorno de humedad"
+    },
+    {
+      "category": "Pulpa de Celulosa Virgen",
+      "partners": "Weyerhaeuser (EE.UU.), Georgia-Pacific Golden Isles (EE.UU.)",
+      "feature": "100% certificada FSC libre de cloro (TCF/ECF), alta densidad y difusión líquida uniforme"
+    },
+    {
+      "category": "Adhesivos Termofusibles",
+      "partners": "Henkel (Alemania), Bostik (Francia)",
+      "feature": "Adhesivos termofusibles inodoros de grado alimentario con alta fuerza de unión en temperaturas extremas"
+    },
+    {
+      "category": "Maquinaria de Ensamblaje",
+      "partners": "Zuiko (Japón), Fameccanica (Italia), Anqing Hengchang",
+      "feature": "Líneas de precisión servomotorizadas completas a 600-800 piezas por minuto con visión por cámara inline"
+    },
+    {
+      "category": "Fibras No Tejidas y Ecológicas",
+      "partners": "NatureWorks Ingeo PLA, 100% Fibra de Bambú Certificada",
+      "feature": "Tejido no tejido spunbond sedoso y termofijado con poros diamantados 3D biodegradables"
+    }
+  ],
+  "categories": [
+    {
+      "id": "baby-diaper",
+      "slug": "baby-diapers-oem-manufacturer",
+      "name": "Pañales para Bebé (Estilo Cinta)",
+      "tagline": "Pañales Desechables OEM Ultrafinos y Transpirables 3D",
+      "meta_title": "Fabricante OEM de Pañales para Bebé | Fábrica de Marca Blanca China",
+      "meta_desc": "Fabricante certificado en China de pañales para bebé OEM/ODM. Núcleo compuesto SAP ultrafino, cubierta 3D perla, pulpa FSC y certificaciones ISO/CE/FDA con MOQ flexible.",
+      "image": "images/baby_diaper.jpg",
+      "hero_title": "Fabricación OEM de Pañales para Bebé a Medida",
+      "hero_subtitle": "Diseñados para marcas internacionales de cuidado infantil, cadenas de supermercados y distribuidores mayoristas regionales.",
+      "specs": [
+        {
+          "size": "NB (Newborn)",
+          "weight": "20g ± 1g",
+          "dimensions": "360 x 280 mm",
+          "baby_weight": "< 4 kg",
+          "sap": "4.5g (Sumitomo)",
+          "absorption": "400 ml",
+          "rewet": "< 0.15g",
+          "pack": "60 pcs/bag"
+        },
+        {
+          "size": "S (Small)",
+          "weight": "24g ± 1g",
+          "dimensions": "390 x 300 mm",
+          "baby_weight": "3 - 7 kg",
+          "sap": "6.0g (Sumitomo)",
+          "absorption": "500 ml",
+          "rewet": "< 0.15g",
+          "pack": "54 pcs/bag"
+        },
+        {
+          "size": "M (Medium)",
+          "weight": "29g ± 1.5g",
+          "dimensions": "450 x 320 mm",
+          "baby_weight": "6 - 11 kg",
+          "sap": "8.0g (Sumitomo)",
+          "absorption": "650 ml",
+          "rewet": "< 0.18g",
+          "pack": "46 pcs/bag"
+        },
+        {
+          "size": "L (Large)",
+          "weight": "33g ± 1.5g",
+          "dimensions": "490 x 320 mm",
+          "baby_weight": "9 - 14 kg",
+          "sap": "10.0g (Sumitomo)",
+          "absorption": "800 ml",
+          "rewet": "< 0.20g",
+          "pack": "40 pcs/bag"
+        },
+        {
+          "size": "XL (Extra Large)",
+          "weight": "37g ± 2g",
+          "dimensions": "520 x 330 mm",
+          "baby_weight": "12 - 17 kg",
+          "sap": "11.5g (Sumitomo)",
+          "absorption": "950 ml",
+          "rewet": "< 0.20g",
+          "pack": "34 pcs/bag"
+        },
+        {
+          "size": "XXL (Super Large)",
+          "weight": "40g ± 2g",
+          "dimensions": "550 x 340 mm",
+          "baby_weight": "> 15 kg",
+          "sap": "13.0g (Sumitomo)",
+          "absorption": "1100 ml",
+          "rewet": "< 0.25g",
+          "pack": "28 pcs/bag"
+        }
+      ],
+      "key_features": [
+        "Núcleo absorbente compuesto de 7 capas ultrafino con SAP (sin apelmazamiento, cero roturas)",
+        "Capa superior no tejida termofijada con microperlas 3D con desvío instantáneo de líquidos",
+        "Lámina posterior microporosa transpirable que expulsa la humedad reteniendo el líquido",
+        "Cintas mágicas laterales corte S reutilizables tipo 3M con bordes redondeados para evitar roces",
+        "Indicador de humedad termofusible de 3 líneas con cambio de color",
+        "Barrera elástica doble antifugas que previene derrames laterales durante la noche",
+        "Tecnología de penetración ultrarrápida en 0,5 segundos desarrollada por Huifeng Miaoyuan y GLADO"
+      ],
+      "moq": "Contenedor 1x20GP (aprox. 160.000 uds) para talla única; 1x40HQ (aprox. 380.000 uds) para 3-4 tallas combinadas",
+      "lead_time": "15-20 días para el primer pedido personalizado; 10-14 días para pedidos repetidos"
+    },
+    {
+      "id": "baby-pullup",
+      "slug": "baby-pull-up-pants-wholesale",
+      "name": "Pantalones de Aprendizaje / Pull-Up Pants para Bebé",
+      "tagline": "Pañales Pants con Cintura Elástica 360° para Niños Pequeños",
+      "meta_title": "Venta Mayorista de Pañales Pants para Bebé | Fábrica OEM de Pull-Up Pants",
+      "meta_desc": "Fabricante OEM de gran volumen de pañales pants para bebé con cintura elástica 360°. Cintura de burbuja ultra transpirable, costuras laterales rasgables y núcleo SAP.",
+      "image": "images/baby_pullup.jpg",
+      "hero_title": "Fabricación OEM de Pañales Pull-Up y Pantalones de Entrenamiento",
+      "hero_subtitle": "Cintura elástica envolvente de 360 grados sin costuras diseñada para bebés activos y un entrenamiento cómodo para dejar el pañal.",
+      "specs": [
+        {
+          "size": "M",
+          "weight": "28g ± 1g",
+          "dimensions": "460 x 390 mm",
+          "baby_weight": "6 - 11 kg",
+          "sap": "8.0g",
+          "absorption": "600 ml",
+          "rewet": "< 0.18g",
+          "pack": "44 pcs/bag"
+        },
+        {
+          "size": "L",
+          "weight": "32g ± 1.5g",
+          "dimensions": "490 x 400 mm",
+          "baby_weight": "9 - 14 kg",
+          "sap": "9.5g",
+          "absorption": "750 ml",
+          "rewet": "< 0.20g",
+          "pack": "38 pcs/bag"
+        },
+        {
+          "size": "XL",
+          "weight": "36g ± 1.5g",
+          "dimensions": "520 x 410 mm",
+          "baby_weight": "12 - 17 kg",
+          "sap": "11.0g",
+          "absorption": "900 ml",
+          "rewet": "< 0.20g",
+          "pack": "32 pcs/bag"
+        },
+        {
+          "size": "XXL",
+          "weight": "40g ± 2g",
+          "dimensions": "540 x 420 mm",
+          "baby_weight": "15 - 20 kg",
+          "sap": "12.5g",
+          "absorption": "1050 ml",
+          "rewet": "< 0.22g",
+          "pack": "28 pcs/bag"
+        },
+        {
+          "size": "XXXL",
+          "weight": "43g ± 2g",
+          "dimensions": "560 x 430 mm",
+          "baby_weight": "> 18 kg",
+          "sap": "14.0g",
+          "absorption": "1200 ml",
+          "rewet": "< 0.25g",
+          "pack": "24 pcs/bag"
+        }
+      ],
+      "key_features": [
+        "Cintura elástica de burbuja súper elástica de 360° que imita la ropa interior de algodón suave",
+        "Costuras laterales rasgables por ultrasonidos para desechar el pañal sucio de forma limpia",
+        "Cinta adhesiva higiénica en la parte trasera para enrollar y desechar fácilmente",
+        "Diseño estructural de doble núcleo: capa de absorción rápida + núcleo de SAP de alta retención",
+        "Ajuste suave en las piernas que evita marcas rojas en los muslos sensibles del bebé"
+      ],
+      "moq": "Contenedor 1x40HQ (aprox. 360.000 uds) combinando 3 tallas",
+      "lead_time": "15-20 días"
+    },
+    {
+      "id": "adult-diaper",
+      "slug": "adult-diapers-bulk-supplier",
+      "name": "Pañales para Adultos (Estilo Cinta)",
+      "tagline": "Pañales para Incontinencia Severa y Cuidados Clínicos Hospitalarios",
+      "meta_title": "Proveedor Mayorista de Pañales para Adultos | Fábrica de Incontinencia China",
+      "meta_desc": "Fabricante certificado de pañales para adultos de alta absorción para hospitales, residencias de ancianos y distribuidores B2B globales. ISO 13485 y CE.",
+      "image": "images/adult_diaper.jpg",
+      "hero_title": "Pañales para Adultos de Grado Médico para Incontinencia",
+      "hero_subtitle": "Diseñados para incontinencia severa, pacientes encamados, recuperación posquirúrgica y centros asistenciales de la tercera edad.",
+      "specs": [
+        {
+          "size": "M (Medium)",
+          "weight": "95g ± 5g",
+          "dimensions": "800 x 650 mm",
+          "waist": "70 - 120 cm (28-47\")",
+          "sap": "12g (Sumitomo)",
+          "absorption": "1800 ml",
+          "rewet": "< 0.5g",
+          "pack": "10 pcs/bag"
+        },
+        {
+          "size": "L (Large)",
+          "weight": "105g ± 5g",
+          "dimensions": "900 x 750 mm",
+          "waist": "90 - 150 cm (35-59\")",
+          "sap": "15g (Sumitomo)",
+          "absorption": "2400 ml",
+          "rewet": "< 0.5g",
+          "pack": "10 pcs/bag"
+        },
+        {
+          "size": "XL (Extra Large)",
+          "weight": "118g ± 5g",
+          "dimensions": "1000 x 850 mm",
+          "waist": "110 - 170 cm (43-67\")",
+          "sap": "18g (Sumitomo)",
+          "absorption": "3000 ml",
+          "rewet": "< 0.6g",
+          "pack": "10 pcs/bag"
+        }
+      ],
+      "key_features": [
+        "Doble núcleo de alto rendimiento: pulpa de celulosa Weyerhaeuser + SAP japonés Sumitomo",
+        "Ensayos de absorción pesada según ISO 11948-1 Rothwell hasta 3.000 ml",
+        "Barreras laterales hidrofóbicas elevadas con elásticos multifilamento",
+        "Zona de aterrizaje frontal de doble cinta mágica repositionable de PP / tacto textil",
+        "Líneas de indicador de humedad dobles que desaparecen con la saturación",
+        "Opción de infusión de carbón activo o polifenoles de té antibacterianos y neutralizadores de olores",
+        "Serie médica Huifeng Weishuli (卫舒理) con núcleo desodorizante antibacteriano y SAP de alta capacidad"
+      ],
+      "moq": "Contenedor 1x20GP (aprox. 50.000 uds) o 1x40HQ (aprox. 110.000 uds)",
+      "lead_time": "15-22 días"
+    },
+    {
+      "id": "adult-pullup",
+      "slug": "adult-pull-up-pants-wholesale",
+      "name": "Ropa Interior Absorbente para Adultos (Pull-Up)",
+      "tagline": "Ropa Interior Protectora Discreta para Incontinencia de Adultos",
+      "meta_title": "Fábrica Mayorista de Ropa Interior Absorbente para Adultos | Pants OEM",
+      "meta_desc": "Fabricante OEM/ODM de ropa interior absorbente tipo pull-up para adultos activos. Tejido spunbond transpirable, rápida absorción, control de olores y certificación ISO 13485.",
+      "image": "images/adult_pullup.jpg",
+      "hero_title": "Ropa Interior Absorbente y Protectora Discreta para Adultos",
+      "hero_subtitle": "Ajuste anatómico ceñido al cuerpo que permite a personas mayores y adultos activos mantener su dignidad, movilidad y total confianza.",
+      "specs": [
+        {
+          "size": "M",
+          "weight": "65g ± 3g",
+          "dimensions": "700 x 620 mm",
+          "waist": "60 - 100 cm",
+          "sap": "10g",
+          "absorption": "1200 ml",
+          "rewet": "< 0.4g",
+          "pack": "10 pcs/bag"
+        },
+        {
+          "size": "L",
+          "weight": "72g ± 3g",
+          "dimensions": "780 x 680 mm",
+          "waist": "80 - 130 cm",
+          "sap": "12g",
+          "absorption": "1500 ml",
+          "rewet": "< 0.4g",
+          "pack": "10 pcs/bag"
+        },
+        {
+          "size": "XL",
+          "weight": "80g ± 4g",
+          "dimensions": "860 x 740 mm",
+          "waist": "100 - 160 cm",
+          "sap": "14g",
+          "absorption": "1800 ml",
+          "rewet": "< 0.5g",
+          "pack": "10 pcs/bag"
+        }
+      ],
+      "key_features": [
+        "Tejido no tejido spunbond ultrasuave similar a la tela que no hace ruido bajo la ropa",
+        "Distribución de tensión elástica de 360° que elimina marcas de presión localizada",
+        "Canales de distribución de fluido de secado rápido que alejan la humedad en 10 segundos",
+        "Costuras laterales rasgables que permiten un cambio ágil sin desvestirse por completo"
+      ],
+      "moq": "Contenedor 1x40HQ (aprox. 90.000 uds)",
+      "lead_time": "15-20 días"
+    },
+    {
+      "id": "underpad",
+      "slug": "nursing-underpads-disposable-wholesale",
+      "name": "Empapadores Clínicos y Protectores de Cama",
+      "tagline": "Protección Desechable de Superficies e Incontinencia de Grado Hospitalario",
+      "meta_title": "Venta al por Mayor de Empapadores Clínicos | Fábrica de Protectores de Cama",
+      "meta_desc": "Venta directa de fábrica de empapadores clínicos desechables y protectores de cama médicos. Grabado en rombos, base de PE impermeable y cumplimiento FDA/CE/ISO13485.",
+      "image": "images/underpad.jpg",
+      "hero_title": "Protectores de Cama y Empapadores Médicos Desechables",
+      "hero_subtitle": "Máxima protección de líquidos para colchones clínicos, asientos de sillas de ruedas, cunas pediátricas y cuidados postoperatorios.",
+      "specs": [
+        {
+          "size": "60 x 60 cm",
+          "weight": "40g ± 2g",
+          "fluff": "32g",
+          "sap": "3g",
+          "absorption": "600 ml",
+          "pack": "30 pcs/bag",
+          "carton": "120 pcs/ctn"
+        },
+        {
+          "size": "60 x 90 cm",
+          "weight": "60g ± 3g",
+          "fluff": "48g",
+          "sap": "5g",
+          "absorption": "1000 ml",
+          "pack": "15 pcs/bag",
+          "carton": "90 pcs/ctn"
+        },
+        {
+          "size": "80 x 90 cm",
+          "weight": "75g ± 4g",
+          "fluff": "58g",
+          "sap": "7g",
+          "absorption": "1300 ml",
+          "pack": "10 pcs/bag",
+          "carton": "60 pcs/ctn"
+        },
+        {
+          "size": "80 x 150 cm (Wings)",
+          "weight": "110g ± 5g",
+          "fluff": "80g",
+          "sap": "10g",
+          "absorption": "1800 ml",
+          "pack": "10 pcs/bag",
+          "carton": "40 pcs/ctn"
+        }
+      ],
+      "key_features": [
+        "Canales en superficie con relieve diamantado que distribuyen el líquido instantáneamente por toda la sábana",
+        "Núcleo de pulpa de madera virgen de alta densidad mezclado con polímero SAP de gelificación rápida",
+        "Lámina de soporte de polietileno (PE) impermeable y antideslizante que evita deslizamientos en la cama",
+        "Opción de alas laterales ajustables para fijación en camas hospitalarias",
+        "Bordes sellados en los cuatro costados para evitar filtraciones por los extremos"
+      ],
+      "moq": "Contenedor 1x20GP (aprox. 80.000 uds) o 1x40HQ (aprox. 200.000 uds)",
+      "lead_time": "12-18 días"
+    },
+    {
+      "id": "wet-wipes",
+      "slug": "wet-wipes-baby-wetwipes-wholesale",
+      "name": "Toallitas Húmedas y Toallitas de Limpieza",
+      "tagline": "Toallitas No Tejidas Spunlace con Agua Purificada EDI de 7 Etapas",
+      "meta_title": "Fabricante OEM de Toallitas Húmedas | Toallitas para Bebé al por Mayor",
+      "meta_desc": "Fábrica de toallitas húmedas de marca privada en China. Agua purificada EDI de 7 etapas, sin alcohol, toallitas biodegradables desechables y opciones desinfectantes.",
+      "image": "images/wet_wipes.jpg",
+      "hero_title": "Toallitas Húmedas Personalizadas OEM y Cuidado Personal",
+      "hero_subtitle": "Purificadas a través de sistemas de agua de ósmosis inversa farmacéutica EDI de 7 etapas y enriquecidas con extractos botánicos naturales.",
+      "specs": [
+        {
+          "type": "Baby Water Wipes",
+          "fabric": "Spunlace Cross-lapped 50gsm",
+          "size": "150 x 200 mm",
+          "pack": "80 pcs/pack with flip lid",
+          "formula": "99.9% EDI Water + Aloe Vera"
+        },
+        {
+          "type": "Eco Flushable Wipes",
+          "fabric": "100% Wood Pulp Biodegradable 60gsm",
+          "size": "140 x 200 mm",
+          "pack": "42 pcs/pack",
+          "formula": "Flushable dispersible, zero plastic"
+        },
+        {
+          "type": "Hospital Antiseptic Wipes",
+          "fabric": "Embossed Spunlace 55gsm",
+          "size": "180 x 200 mm",
+          "pack": "100 pcs/canister",
+          "formula": "Benzalkonium Chloride 0.13% non-alcohol"
+        },
+        {
+          "type": "Pet Grooming Deodorant Wipes",
+          "fabric": "Pearl Jacquard Nonwoven 60gsm",
+          "size": "160 x 200 mm",
+          "pack": "100 pcs/pack",
+          "formula": "Jojoba Oil, Green Tea extract, lick-safe"
+        }
+      ],
+      "key_features": [
+        "Taller de producción purificado de grado farmacéutico Clase 100.000",
+        "Purificación de agua por ósmosis inversa EDI de 7 etapas con pureza de grado inyectable",
+        "0% Alcohol, 0% Parabenos, 0% Blanqueadores Fluorescentes, 0% Formaldehído",
+        "Empaque con doble barrera de sellado: lámina de aluminio resellable + tapa abatible con cierre hermético",
+        "Dispensación continua tipo pop-up sin rasgados ni apelmazamiento de toallitas"
+      ],
+      "moq": "10.000 paquetes por formulación y diseño de empaque personalizado",
+      "lead_time": "14-20 días"
+    },
+    {
+      "id": "sanitary-napkin",
+      "slug": "sanitary-napkins-oem-factory",
+      "name": "Toallas Sanitarias Femeninas y Compresas",
+      "tagline": "Cuidado Femenino Ultrafino con Iones Negativos y Algodón Orgánico",
+      "meta_title": "Fábrica OEM de Toallas Sanitarias | Compresas Femeninas al por Mayor",
+      "meta_desc": "Fábrica en China de toallas sanitarias femeninas de marca privada. Opciones con chip de aniones, lámina de seda ultrafina, fibra de bambú biodegradable y registro ISO/FDA.",
+      "image": "images/sanitary_napkin.jpg",
+      "hero_title": "Toallas Sanitarias y Protectores Diarios OEM para la Mujer",
+      "hero_subtitle": "Diseñadas para brindar comodidad transpirable, máxima retención antifugas y cuidado menstrual integral.",
+      "specs": [
+        {
+          "type": "Snow Lotus Care Patch (雪莲养护贴)",
+          "length": "155 mm",
+          "structure": "100% Cotton topsheet, herbal active core, breathable backsheet",
+          "capacity": "Herbal essence release",
+          "pack": "10 or 30 pcs/aluminum foil gift box"
+        },
+        {
+          "type": "Panty Liner (Daily)",
+          "length": "155 mm",
+          "structure": "Airlaid core, breathable bottom",
+          "capacity": "30 ml",
+          "pack": "30 pcs/box"
+        },
+        {
+          "type": "Day Use Regular",
+          "length": "245 mm",
+          "structure": "Super-thin SAP sheet, side wings",
+          "capacity": "100 ml",
+          "pack": "10 pcs/pack"
+        },
+        {
+          "type": "Day Use Heavy Flow",
+          "length": "290 mm",
+          "structure": "Double SAP absorbent core",
+          "capacity": "150 ml",
+          "pack": "8 pcs/pack"
+        },
+        {
+          "type": "Night Use Overnight",
+          "length": "350 mm",
+          "structure": "Extended butterfly tail, 3D wings",
+          "capacity": "220 ml",
+          "pack": "6 pcs/pack"
+        },
+        {
+          "type": "Extra Long Heavy Night",
+          "length": "420 mm",
+          "structure": "Deep channel diversion, maximum tail",
+          "capacity": "300 ml",
+          "pack": "4 pcs/pack"
+        }
+      ],
+      "key_features": [
+        "Perfil ultrafino de 0,8 mm que proporciona sensación de piel desnuda sin abultamiento",
+        "Opciones de chips multifuncionales: Aniones (Iones Negativos), Nanoplata, Infrarrojo Lejano, Esencia Herbal",
+        "Empaque individual sellado herméticamente a 360 grados para transporte higiénico",
+        "Lámina posterior microporosa permeable al aire que expulsa el calor y la humedad en 3 segundos",
+        "Tecnología de infusión botánica patentada (series Mianxiang y Loto de Nieve) para el bienestar reproductivo",
+        "Probado en laboratorio independiente acreditado CMA Zhongke Huiju para seguridad microbiológica y conformidad total"
+      ],
+      "moq": "100.000 uds por talla SKU",
+      "lead_time": "15-20 días"
+    },
+    {
+      "id": "period-panty",
+      "slug": "period-panties-menstrual-underwear-wholesale",
+      "name": "Bragas Menstruales Desechables (Pants Femeninos)",
+      "tagline": "Ropa Interior Menstrual Antifugas de Cobertura 360° para la Noche",
+      "meta_title": "Fabricante OEM de Bragas Menstruales | Ropa Interior Menstrual Mayorista",
+      "meta_desc": "Fábrica certificada en China para bragas menstruales desechables y ropa interior para la regla. Cintura elástica 360°, núcleo SAP ultrafino y cero fugas nocturnas.",
+      "image": "images/period_panty.jpg",
+      "hero_title": "Bragas Menstruales Desechables y Pants para la Regla OEM",
+      "hero_subtitle": "Diseñadas para una máxima prevención de fugas de 360°, libertad de movimiento durante el sueño y protección menstrual tipo ropa interior.",
+      "specs": [
+        {
+          "size": "M (Medium)",
+          "waist": "60 - 95 cm (24 - 37\")",
+          "hip": "80 - 105 cm",
+          "absorbency": "180 ml",
+          "sap": "8.0g (Sumitomo)",
+          "pack": "3 or 5 pcs/pack"
+        },
+        {
+          "size": "L (Large)",
+          "waist": "85 - 120 cm (33 - 47\")",
+          "hip": "95 - 125 cm",
+          "absorbency": "250 ml",
+          "sap": "10.5g (Sumitomo)",
+          "pack": "3 or 5 pcs/pack"
+        },
+        {
+          "size": "XL (Super Comfort)",
+          "waist": "105 - 140 cm (41 - 55\")",
+          "hip": "115 - 145 cm",
+          "absorbency": "320 ml",
+          "sap": "12.5g (Sumitomo)",
+          "pack": "3 or 5 pcs/pack"
+        }
+      ],
+      "key_features": [
+        "Cintura elástica tipo nube de 360° que imita la ropa interior de algodón sedoso sin dejar marcas rojas",
+        "Núcleo absorbente extendido de 460 mm compuesto de SAP que envuelve desde el vientre hasta la parte trasera",
+        "Costuras laterales rasgables por ultrasonido para una extracción higiénica y rápida sin desastres",
+        "Barrera doble 3D antifugas con elásticos multifilamento que evita derrames laterales al girarse en la cama",
+        "Lámina microporosa disipadora de calor que mantiene la piel fresca, seca y libre de irritaciones",
+        "Serie superventas GLADO (格拉朵) en Alibaba con núcleo ultrafino de 0,8 mm sin sensación de bulto"
+      ],
+      "moq": "100.000 uds por especificación de talla",
+      "lead_time": "15-20 días para producción de marca blanca OEM personalizada"
+    },
+    {
+      "id": "snow-lotus-patch",
+      "slug": "snow-lotus-herbal-care-patch-manufacturer",
+      "name": "Parches de Cuidado Herbal con Loto de Nieve",
+      "tagline": "Compresas Terapéuticas de Bienestar Íntimo Femenino con Loto de Nieve",
+      "meta_title": "Fábrica OEM de Parches de Cuidado Herbal | Compresas Íntimas de Loto de Nieve",
+      "meta_desc": "Fabricante de parches de cuidado herbal con loto de nieve y apósitos de bienestar ginecológico. Probado en laboratorio CMA, 100% algodón orgánico, absorción transdérmica.",
+      "image": "images/snow_lotus_patch.jpg",
+      "hero_title": "Parches Ginecológicos de Cuidado Herbal con Loto de Nieve",
+      "hero_subtitle": "Combinación de extractos botánicos naturales de loto de nieve de Tianshan con algodón orgánico puro para la salud femenina diaria.",
+      "specs": [
+        {
+          "model": "Daily Protection Liner (日常养护型)",
+          "length": "155 mm",
+          "topsheet": "100% Certified Organic Cotton (Unbleached)",
+          "core": "Active Snow Lotus & Sophora Flavescens Botanical Strip",
+          "pack": "10 or 30 pcs/aluminum gift box"
+        },
+        {
+          "model": "Intensive Reproductive Wellness (调理修复型)",
+          "length": "175 mm",
+          "topsheet": "Silk-soft Hot-Air Nonwoven",
+          "core": "High-concentration Snow Lotus extract + Angelica Sinensis",
+          "pack": "8 or 24 pcs/hermetic box"
+        },
+        {
+          "model": "Postpartum & Gynecological Recovery (产后舒缓型)",
+          "length": "190 mm",
+          "topsheet": "Medical-grade hypoallergenic cotton",
+          "core": "Soothing herbal essence chip for perineal comfort",
+          "pack": "6 or 18 pcs/box"
+        }
+      ],
+      "key_features": [
+        "Formulado con extractos botánicos auténticos de Saussurea involucrata (Loto de Nieve) e ingredientes herbales tradicionales",
+        "Absorción transdérmica perineal continua y no invasiva sin sobrecarga de medicación oral",
+        "Capa superior de algodón 100% orgánico certificado sin blanquear, libre de blanqueadores ópticos y fragancias sintéticas",
+        "Sellado hermético de doble capa en papel de aluminio que conserva los fitoquímicos volátiles durante 24 meses",
+        "Eficacia antibacteriana superior al 99% contra Staphylococcus aureus y Candida albicans verificada por el laboratorio CMA",
+        "Línea insignia patentada de cuidado herbal Miaoyuan (妙缘) con más de 15 años de perfeccionamiento clínico"
+      ],
+      "moq": "50.000 uds por formulación y caja de regalo personalizada",
+      "lead_time": "15-20 días"
+    },
+    {
+      "id": "maternity-pad",
+      "slug": "maternity-pads-postpartum-supplier",
+      "name": "Compresas de Maternidad y Cuidado Posparto",
+      "tagline": "Compresas Posparto Hospitalarias para Loquios y Cirugía",
+      "meta_title": "Proveedor de Compresas de Maternidad Posparto | Apósitos Hospitalarios",
+      "meta_desc": "Fabricante especializado en China de compresas de maternidad posparto y apósitos hospitalarios. Alto volumen de pulpa de celulosa y cubierta extrasuave para episiotomía.",
+      "image": "images/maternity_pad.jpg",
+      "hero_title": "Compresas Clínicas Posparto para Maternidad y Loquios",
+      "hero_subtitle": "Protección suave, no irritante y extra acolchada formulada específicamente para madres recientes durante la recuperación hospitalaria posparto.",
+      "specs": [
+        {
+          "size": "Regular Postpartum",
+          "length": "380 mm",
+          "width": "150 mm",
+          "absorbency": "450 ml",
+          "features": "Fluff core + SAP, adhesive strip"
+        },
+        {
+          "size": "Heavy Lochia Hospital",
+          "length": "450 mm",
+          "width": "180 mm",
+          "absorbency": "700 ml",
+          "features": "Extra-wide contour, looped ends or belt"
+        },
+        {
+          "size": "Postpartum Pants (Discreet)",
+          "length": "Pull-up Style",
+          "waist": "60-120 cm",
+          "absorbency": "900 ml",
+          "features": "Full brief coverage, surgical grade"
+        }
+      ],
+      "key_features": [
+        "Superficie no tejida termounida ultrasuave que protege las zonas sensibles tras el parto",
+        "Cero fragancias, cero cloro, cero agentes químicos refrescantes o astringentes",
+        "Canales laterales profundos que alejan el flujo de loquios de las líneas de sutura perineal",
+        "Tiras adhesivas anchas en la parte posterior que evitan el deslizamiento en la ropa interior posparto"
+      ],
+      "moq": "50.000 uds",
+      "lead_time": "15-20 días"
+    },
+    {
+      "id": "pet-diaper",
+      "slug": "pet-diapers-training-pads-manufacturer",
+      "name": "Pañales para Mascotas y Empapadores de Entrenamiento",
+      "tagline": "Higiene Antifugas para Incontinencia de Mascotas y Educación Canina",
+      "meta_title": "Fabricante de Pañales para Mascotas | Empapadores Caninos al por Mayor",
+      "meta_desc": "Fábrica de pañales para perros y empapadores para cachorros. Bandas para machos, pañales para hembras con orificio de cola, empapadores con carbón activado y marca blanca.",
+      "image": "images/pet_diaper.jpg",
+      "hero_title": "Pañales para Incontinencia de Mascotas y Empapadores Caninos OEM",
+      "hero_subtitle": "Desarrollados para hospitales veterinarios, marcas de productos para mascotas, peluquerías caninas y marcas privadas de estilo de vida animal.",
+      "specs": [
+        {
+          "type": "Female Dog Diapers (XS-XXL)",
+          "waist": "20 - 75 cm",
+          "feature": "Adjustable tail hole, fur-friendly fastener, wetness check",
+          "pack": "12 pcs/pack"
+        },
+        {
+          "type": "Male Dog Belly Wraps (S-XL)",
+          "waist": "30 - 80 cm",
+          "feature": "Wide elastic band, leak-proof barrier, anatomical male fit",
+          "pack": "12 pcs/pack"
+        },
+        {
+          "type": "Puppy Training Pee Pads (Small)",
+          "size": "33 x 45 cm",
+          "absorption": "300 ml",
+          "pack": "100 pcs/bag"
+        },
+        {
+          "type": "Puppy Training Pee Pads (Medium)",
+          "size": "45 x 60 cm",
+          "absorption": "600 ml",
+          "pack": "50 pcs/bag"
+        },
+        {
+          "type": "Puppy Training Pee Pads (Large)",
+          "size": "60 x 90 cm",
+          "absorption": "1000 ml",
+          "pack": "25 pcs/bag"
+        },
+        {
+          "type": "Activated Charcoal Pee Pads",
+          "size": "60 x 60 cm",
+          "absorption": "800 ml (Odor Neutralizer)",
+          "pack": "40 pcs/bag"
+        }
+      ],
+      "key_features": [
+        "Cierres mágicos adhesivos reutilizables respetuosos con el pelaje que no tiran del pelo del animal",
+        "Orificio para la cola rasgable con junta elástica antifugas adaptada a la anatomía de las perras",
+        "Tecnología de conversión instantánea de líquido a gel que evita huellas mojadas en los suelos del hogar",
+        "Atrayente de feromonas incorporado que guía a los cachorros a orinar en el área designada",
+        "Lámina base de polietileno de alta resistencia que soporta rasguños de uñas y garras"
+      ],
+      "moq": "Contenedor 1x20GP",
+      "lead_time": "15-20 días"
+    },
+    {
+      "id": "bamboo-diaper",
+      "slug": "bamboo-diapers-biodegradable-wholesale",
+      "name": "Pañales Ecológicos Biodegradables de Bambú",
+      "tagline": "Higiene con 100% Fibra de Bambú Certificada y PLA Compostable",
+      "meta_title": "Pañales Biodegradables de Bambú al por Mayor | Fabricante Ecológico",
+      "meta_desc": "Fabricante en China de pañales de fibra de bambú 100% biodegradables para bebés, empaques compostables de PLA, pulpa FSC sin cloro y neutralidad de plástico certificable.",
+      "image": "images/bamboo_diaper.jpg",
+      "hero_title": "Higiene Ecológica y 100% Biodegradable de Bambú",
+      "hero_subtitle": "Cumplimiento riguroso con el Pacto Verde Europeo, regulaciones de deforestación EUDR y estándares globales de sostenibilidad ambiental ESG.",
+      "specs": [
+        {
+          "size": "S",
+          "weight": "24g",
+          "bamboo_ratio": "68% total biodegradable mass",
+          "absorption": "500 ml",
+          "pack": "40 pcs/eco bag"
+        },
+        {
+          "size": "M",
+          "weight": "29g",
+          "bamboo_ratio": "70% total biodegradable mass",
+          "absorption": "650 ml",
+          "pack": "36 pcs/eco bag"
+        },
+        {
+          "size": "L",
+          "weight": "33g",
+          "bamboo_ratio": "71% total biodegradable mass",
+          "absorption": "800 ml",
+          "pack": "32 pcs/eco bag"
+        },
+        {
+          "size": "XL",
+          "weight": "37g",
+          "bamboo_ratio": "72% total biodegradable mass",
+          "absorption": "950 ml",
+          "pack": "28 pcs/eco bag"
+        }
+      ],
+      "key_features": [
+        "Cubierta superior e inferior de viscosa de bambú 100% certificada: naturalmente antibacteriana e hipoalergénica",
+        "Núcleo de pulpa de celulosa sostenible certificada FSC escandinava totalmente libre de cloro (TCF)",
+        "Empaque interior y exterior de PLA de almidón de maíz compostable impreso con tinta ecológica a base de soja",
+        "Cero perfumes, cero lociones químicas, cero ftalatos tóxicos y cero blanqueadores ópticos"
+      ],
+      "moq": "Contenedor 1x20GP (aprox. 140.000 uds)",
+      "lead_time": "18-25 días"
+    }
+  ],
+  "oem_odm_workflow": [
+    {
+      "step": "01",
+      "title": "Perfil de Mercado y Requisitos Técnicos",
+      "desc": "Análisis del territorio objetivo (España, México, Colombia, Cono Sur, Norteamérica), datos demográficos del consumidor, precio de venta, certificaciones requeridas (CE, FDA, ISO) y necesidades de marca privada."
+    },
+    {
+      "step": "02",
+      "title": "Ingeniería de Componentes y Fórmula del Núcleo",
+      "desc": "Configuración del gramaje exacto de SAP (Sumitomo/BASF), proporción de pulpa de madera (Weyerhaeuser FSC), patrón de cubierta (perla 3D, rombo, plano), filamentos elásticos y tasa de transpirabilidad (WVTR)."
+    },
+    {
+      "step": "03",
+      "title": "Prototipado Rápido en Laboratorio y Verificación",
+      "desc": "Fabricación de prototipos personalizados en nuestro laboratorio de pruebas de I+D en 5-7 días hábiles. Ensayos de absorción Rothwell, retorno de humedad rewet (< 0,2g), resistencia a la tracción y envío de muestras físicas."
+    },
+    {
+      "step": "04",
+      "title": "Diseño de Empaque y Optimización de Carga",
+      "desc": "Entrega de plantillas troqueladas CAD para bolsas impresas, bolsas con cierre zipper o cajas de cartón. Cálculo de CBM, paletización y eficiencia volumétrica para maximizar el contenedor en un 12-18%."
+    },
+    {
+      "step": "05",
+      "title": "Producción Comercial de Alta Velocidad Servomotorizada",
+      "desc": "Fabricación masiva a 600-800 piezas/minuto en líneas servomotorizadas en salas limpias Clase 100.000. Inspección 100% inline con cámaras de visión artificial CCD, detectores de metales y descarte automático."
+    },
+    {
+      "step": "06",
+      "title": "Liberación de Calidad de Exportación y Despacho",
+      "desc": "Emisión del Certificado Oficial de Análisis (COA), informes microbiológicos, inspección SGS y documentación de embarque (B/L). Despacho ágil a través del Puerto de Xiamen con seguimiento completo."
+    }
+  ],
+  "rag_faq_library": [
+    {
+      "category": "Producto e Ingeniería",
+      "q": "¿Cuál es la diferencia entre un núcleo compuesto de SAP y un núcleo tradicional de pulpa de celulosa?",
+      "a": "El núcleo tradicional depende de un alto volumen de pulpa de madera (70-80%) mezclado con gránulos sueltos de SAP, lo que resulta en un pañal más voluminoso (35-45g) adecuado para mercados económicos. El núcleo compuesto de SAP (también llamado núcleo de papel SAP) utiliza capas ultrafinas de sustrato airlaid que encapsulan mecánicamente polímero SAP de alta pureza (hasta un 70% en peso). Esto crea un perfil ultrafino (1,5 a 2,0 mm) que absorbe hasta 900 ml sin apelmazarse, desplazarse ni romperse con el movimiento activo del bebé."
+    },
+    {
+      "category": "Producto e Ingeniería",
+      "q": "¿Cómo garantizan un valor de retorno de humedad (rewet) inferior a 0,2 gramos en los pañales de bebé OEM?",
+      "a": "El valor de rewet (la cantidad de líquido que retorna a la superficie bajo la presión corporal) se controla mediante tres barreras técnicas: 1) Polímero SAP japonés Sumitomo Seika con rápida gelificación bajo presión (AUP ≥ 25 g/g a 0,7 psi); 2) Una capa de adquisición y distribución (ADL) de 45 gsm que canaliza el flujo longitudinalmente en menos de 3 segundos; 3) Fibras de cubierta hidrofóbicas micrograbadas que mantienen cero retención capilar contra la piel del bebé."
+    },
+    {
+      "category": "Regulación y Calidad",
+      "q": "¿Qué certificaciones internacionales e informes de auditoría proporcionan para el despacho aduanero?",
+      "a": "Mantenemos expedientes completos de exportación que incluyen: Gestión de Calidad ISO 9001:2015, Gestión de Dispositivos Médicos ISO 13485:2016, Declaración de Conformidad CE MDR (UE) 2017/745, Registro de Instalaciones FDA de EE.UU. (FEI), OEKO-TEX Standard 100 Clase 1 (apto para bebés), Cadena de Custodia FSC (FSC-C149802 de celulosa sostenible) e informes independientes de SGS sobre microbiología y metales pesados."
+    },
+    {
+      "category": "Regulación y Calidad",
+      "q": "¿Cómo cumple su fábrica con el Reglamento Europeo contra la Deforestación (EUDR)?",
+      "a": "Toda la pulpa de celulosa de madera utilizada para pedidos con destino a la UE cuenta con certificación 100% de Cadena de Custodia FSC procedente de plantaciones sostenibles gestionadas en el sureste de los Estados Unidos. Conservamos los polígonos de geolocalización GPS de las parcelas de tala, declaraciones de diligencia debida (DDS) y trazabilidad completa desde la planta de pulpa hasta el producto final para cumplir con el Reglamento (UE) 2023/1115 (EUDR)."
+    },
+    {
+      "category": "Comercial B2B y Suministro",
+      "q": "¿Cuál es la Cantidad Mínima de Pedido (MOQ) para pañales de bebé OEM con marca propia?",
+      "a": "Para producción personalizada de marca privada con bolsa impresa propia: El MOQ para una sola talla es de 1 contenedor de 20GP (aprox. 150.000 a 180.000 unidades). Para pedidos de tallas combinadas, recomendamos 1 contenedor de 40HQ (aprox. 360.000 a 400.000 unidades), que permite mezclar 3 o 4 tallas (ej. S, M, L, XL). Para pedidos de prueba o bolsas lisas sin imprimir, se pueden negociar mínimos inferiores según el caso."
+    },
+    {
+      "category": "Comercial B2B y Suministro",
+      "q": "¿Cuántas piezas de pañales caben en un contenedor 40HQ?",
+      "a": "Dependiendo del grosor del producto, la compresión y la cantidad por bolsa: Un contenedor 40HQ estándar alberga entre 360.000 y 420.000 pañales de bebé ultrafinos (envasados al vacío en fardos de alta densidad); aprox. 90.000 a 115.000 pañales para adultos de cinta; aprox. 85.000 a 95.000 pantalones absorbentes pull-up para adultos; y aprox. 180.000 a 220.000 empapadores clínicos de 60x90 cm. Facilitamos planes de estiba y cubicaje en 3D con cada cotización proforma."
+    },
+    {
+      "category": "Comercial B2B y Suministro",
+      "q": "¿Cuál es su política de envío de muestras y plazos de desarrollo de prototipos?",
+      "a": "Las muestras de calidad estándar en stock son completamente GRATUITAS, coordinando el transporte internacional urgente a través de la cuenta DHL/FedEx/UPS del comprador (flete a destino). Para prototipos personalizados con fórmulas de SAP, medidas o materiales específicos indicados por el cliente, nuestro laboratorio de I+D produce las muestras físicas en 5-7 días laborables."
+    },
+    {
+      "category": "Comercial B2B y Suministro",
+      "q": "¿Qué condiciones internacionales de pago e incoterms aceptan?",
+      "a": "Operamos bajo incoterms habituales de comercio internacional: FOB (Xiamen / Quanzhou / Shenzhen), CIF, CFR y DDP. Las condiciones de pago estándar son 30% de depósito por transferencia bancaria (T/T) a la confirmación del pedido y aprobación del diseño gráfico, y el 70% restante contra entrega de copia del conocimiento de embarque (B/L). Para cadenas minoristas consolidadas o clientes recurrentes, aceptamos Cartas de Crédito Documentarias Irrevocables (L/C a la vista)."
+    }
+  ]
+}
